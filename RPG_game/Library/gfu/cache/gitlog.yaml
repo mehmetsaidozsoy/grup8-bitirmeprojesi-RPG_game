@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2021-04-08T02:53:19.402+03:00
+  initializedAtString: 2021-04-08T02:35:58.426+03:00
+  log:
+  - commitID: 813393efd337acaa8fd31f999fcfd2769c63f16c
+    mergeA: 
+    mergeB: 
+    authorName: "Mehmet Said \xD6ZSOY"
+    authorEmail: mehmetsaidozsoy@gmail.com
+    commitEmail: mehmetsaidozsoy@gmail.com
+    commitName: "Mehmet Said \xD6ZSOY"
+    summary: "ilk commit hay\u0131rl\u0131 olsun."
+    description: 
+    timeString: 2021-04-07T01:40:11.000+03:00
+    commitTimeString: 2021-04-07T01:40:11.000+03:00
+    changes:
+    - path: README.md
+      fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\README.md
+      projectPath: ..\README.md
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: cd5ee057ba666047f495e45883e174c7f05bfaed
+    mergeA: 
+    mergeB: 
+    authorName: mehmetsaidozsoy
+    authorEmail: mehmetsaidozsoy@gmail.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: 
+    timeString: 2021-04-07T01:16:07.000+03:00
+    commitTimeString: 2021-04-07T01:16:07.000+03:00
+    changes:
+    - path: README.md
+      fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\README.md
+      projectPath: ..\README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
