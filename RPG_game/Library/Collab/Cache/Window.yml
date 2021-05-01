@@ -13,87 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
-    m_Keys:
-    - Assets/Plugins.meta
-    - Assets/Plugins/GitHub.meta
-    - Assets/Plugins/GitHub/Editor.meta
-    - Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
-    - Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
-    - Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
-    - Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
-    - Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
-    - Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb
-    - Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb.meta
-    - Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
-    - Assets/Plugins/GitHub/Editor/GitHub.Api.45.pdb
-    - Assets/Plugins/GitHub/Editor/GitHub.Api.45.pdb.meta
-    - Assets/Plugins/GitHub/Editor/GitHub.Api.dll
-    - Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
-    - Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
-    - Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
-    - Assets/Plugins/GitHub/Editor/GitHub.Api.pdb
-    - Assets/Plugins/GitHub/Editor/GitHub.Api.pdb.meta
-    - Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
-    - Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
-    - Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
-    - Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
-    - Assets/Plugins/GitHub/Editor/GitHub.Logging.pdb
-    - Assets/Plugins/GitHub/Editor/GitHub.Logging.pdb.meta
-    - Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
-    - Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb
-    - Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb.meta
-    - Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
-    - Assets/Plugins/GitHub/Editor/GitHub.Unity.45.pdb
-    - Assets/Plugins/GitHub/Editor/GitHub.Unity.45.pdb.meta
-    - Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
-    - Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
-    - Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
-    - Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
-    - Assets/Plugins/GitHub/Editor/GitHub.Unity.pdb
-    - Assets/Plugins/GitHub/Editor/GitHub.Unity.pdb.meta
-    - Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
-    - Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb
-    - Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb.meta
-    - Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
-    - Assets/Plugins/GitHub/Editor/GitHub.UnityShim.pdb
-    - Assets/Plugins/GitHub/Editor/GitHub.UnityShim.pdb.meta
-    - Assets/Plugins/GitHub/Editor/Mono.Posix.dll
-    - Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
-    - Assets/Plugins/GitHub/Editor/QuickGuide.pdf
-    - Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
-    - Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
-    - Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
-    - Assets/Plugins/GitHub/Editor/System.Threading.dll
-    - Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
-    - Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
-    - Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
-    - Assets/Plugins/GitHub/Editor/big-logo@2x.png
-    - Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
-    - Assets/Plugins/GitHub/Editor/credits.txt
-    - Assets/Plugins/GitHub/Editor/credits.txt.meta
-    - Assets/Plugins/GitHub/Editor/eula.txt
-    - Assets/Plugins/GitHub/Editor/eula.txt.meta
-    - Assets/Plugins/GitHub/Editor/libsfw.bundle
-    - Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
-    - Assets/Plugins/GitHub/Editor/libsfw.so
-    - Assets/Plugins/GitHub/Editor/libsfw.so.meta
-    - Assets/Plugins/GitHub/Editor/sfw.net.dll
-    - Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
-    - Assets/Plugins/GitHub/Editor/x64.meta
-    - Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
-    - Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
-    - Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
-    - Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
-    - Assets/Plugins/GitHub/Editor/x86.meta
-    - Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
-    - Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
-    - Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
-    - Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
-    - Assets/Scenes.meta
-    - Assets/Scenes/SampleScene.unity
-    - Assets/Scenes/SampleScene.unity.meta
-    - 
-    m_Values: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
+    m_Keys: []
+    m_Values: 
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 

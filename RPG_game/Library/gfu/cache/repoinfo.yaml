@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-04-09T03:25:25.083+03:00
-  initializedAtString: 2021-04-08T23:43:24.373+03:00
+  lastUpdatedAtString: 2021-05-01T23:05:37.016+05:00
+  initializedAtString: 2021-05-01T22:05:07.075+05:00
   currentGitRemote:
     name: origin
-    url: https://github.com/mehmetsaidozsoy/grup8-bitirmeprojesi-RPG_game
+    url: https://github.com/helinimsi/grup8-bitirmeprojesi-RPG_game.git
     login: 
     user: 
     host: 
@@ -30,9 +30,9 @@ MonoBehaviour:
     name: main
     remote:
       name: origin
-      url: https://github.com/mehmetsaidozsoy/grup8-bitirmeprojesi-RPG_game
+      url: https://github.com/helinimsi/grup8-bitirmeprojesi-RPG_game.git
     trackingBranch: main
   currentConfigRemote:
     name: origin
-    url: https://github.com/mehmetsaidozsoy/grup8-bitirmeprojesi-RPG_game
+    url: https://github.com/helinimsi/grup8-bitirmeprojesi-RPG_game.git
   currentHead: 
