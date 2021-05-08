@@ -14,14 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - Assets/Scenes/SampleScene/NavMesh.asset
-    - Assets/Scenes/SampleScene/NavMesh.asset.meta
-    - Assets/Scripts.meta
-    - Assets/Scripts/Mover.cs
-    - Assets/Scripts/Mover.cs.meta
+    - Assets/Scenes/Sandbox.unity
+    - Packages/manifest.json
+    - Packages/packages-lock.json
     - 
-    m_Values: 010101010101
-  RevisionSummary: 
+    m_Values: 00000000
+  RevisionSummary: 'Enemy AI '
   ChangesSearchValue: 
   SelectedHistoryRevision: 
   HistoryPageNumber: 0
