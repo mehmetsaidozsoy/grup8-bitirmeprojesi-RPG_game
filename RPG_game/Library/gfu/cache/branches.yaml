@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-05-12T07:26:45.118+03:00
-  initializedAtString: 2021-05-12T07:16:57.423+03:00
+  lastUpdatedAtString: 2021-05-16T14:08:09.432+03:00
+  initializedAtString: 2021-05-13T13:02:03.052+03:00
   localBranches:
   - name: main
     tracking: origin/main
@@ -27,6 +27,13 @@ MonoBehaviour:
     tracking: '[None]'
   remotes:
   - name: origin
+    url: https://github.com/halildikme/grup8-bitirmeprojesi-RPG_game.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  - name: upstream
     url: https://github.com/mehmetsaidozsoy/grup8-bitirmeprojesi-RPG_game
     login: 
     user: 
@@ -41,7 +48,7 @@ MonoBehaviour:
     - name: main
       remote:
         name: origin
-        url: https://github.com/mehmetsaidozsoy/grup8-bitirmeprojesi-RPG_game
+        url: https://github.com/halildikme/grup8-bitirmeprojesi-RPG_game.git
       trackingBranch: main
     - name: pr/5
       remote:
@@ -60,16 +67,19 @@ MonoBehaviour:
       - name: HEAD
         remote:
           name: origin
-          url: https://github.com/mehmetsaidozsoy/grup8-bitirmeprojesi-RPG_game
+          url: https://github.com/halildikme/grup8-bitirmeprojesi-RPG_game.git
         trackingBranch: 
       - name: main
         remote:
           name: origin
-          url: https://github.com/mehmetsaidozsoy/grup8-bitirmeprojesi-RPG_game
+          url: https://github.com/halildikme/grup8-bitirmeprojesi-RPG_game.git
         trackingBranch: 
   configRemotes:
     keys:
     - origin
+    - upstream
     values:
     - name: origin
+      url: https://github.com/halildikme/grup8-bitirmeprojesi-RPG_game.git
+    - name: upstream
       url: https://github.com/mehmetsaidozsoy/grup8-bitirmeprojesi-RPG_game

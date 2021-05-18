@@ -14,9 +14,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
+    - Assets/Game/Core/PersistentObjects.prefab
+    - Assets/Scenes/Sandbox 2.unity
+    - Assets/Scenes/Sandbox 2/NavMesh.asset
+    - Assets/Scenes/Sandbox.unity
+    - ProjectSettings/QualitySettings.asset
+    - ProjectSettings/UnityConnectSettings.asset
     - 
-    m_Values: 01
-  RevisionSummary: "\xC7e\u015Fitli d\xFCzeltmeler yap\u0131ld\u0131."
+    m_Values: 00000000000000
+  RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
   HistoryPageNumber: 0
