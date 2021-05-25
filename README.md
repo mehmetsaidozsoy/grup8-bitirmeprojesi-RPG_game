@@ -1,4 +1,4 @@
-# grup8-bitirmeprojesi-RPG_game
+# Grup8 Bitirme Projesi- RPG Game
 
 Proje “Rol Yapma Oyunu” 
  GDD-Game Design Document
