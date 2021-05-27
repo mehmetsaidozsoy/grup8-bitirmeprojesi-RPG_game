@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-05-16T14:08:09.443+03:00
-  initializedAtString: 2021-05-13T13:02:01.792+03:00
+  lastUpdatedAtString: 2021-05-27T15:46:53.669+03:00
+  initializedAtString: 2021-05-27T15:24:31.797+03:00
   currentGitRemote:
     name: origin
     url: https://github.com/halildikme/grup8-bitirmeprojesi-RPG_game.git

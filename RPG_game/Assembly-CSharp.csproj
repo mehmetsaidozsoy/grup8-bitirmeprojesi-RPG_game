@@ -36,32 +36,63 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\Control\AIController.cs" />
-     <Compile Include="Assets\Scripts\Movement\Mover.cs" />
      <Compile Include="Assets\Scripts\Control\PlayerController.cs" />
+     <Compile Include="Assets\Scripts\Control\IRaycastable.cs" />
      <Compile Include="Assets\Scripts\Cinematics\CinematicControlRemover.cs" />
-     <Compile Include="Assets\Scripts\Saving\ISaveable.cs" />
+     <Compile Include="Assets\Scripts\Stats\Stats.cs" />
      <Compile Include="Assets\Scripts\Core\IAction.cs" />
-     <Compile Include="Assets\Scripts\Saving\SerializableVector3.cs" />
-     <Compile Include="Assets\Scripts\Control\PatrolPath.cs" />
      <Compile Include="Assets\Scripts\Core\ActionScheduler.cs" />
      <Compile Include="Assets\Scripts\Cinematics\CinematicTrigger.cs" />
-     <Compile Include="Assets\Scripts\Saving\SavingSystem.cs" />
-     <Compile Include="Assets\Scripts\Combat\CombatTarget.cs" />
-     <Compile Include="Assets\Scripts\Core\PeristentObjectSpawner.cs" />
+     <Compile Include="Assets\Scripts\Stats\LevelDisplay.cs" />
+     <Compile Include="Assets\Asset Packs\Standard Assets\Environment\Water\Water\Scripts\Displace.cs" />
+     <Compile Include="Assets\Asset Packs\Standard Assets\Environment\Water\Water\Scripts\PlanarReflection.cs" />
      <Compile Include="Assets\Scripts\SceneManagement\SavingWrapper.cs" />
+     <Compile Include="Assets\Scripts\Stats\IModifierProvider.cs" />
      <Compile Include="Assets\Scripts\SceneManagement\Fader.cs" />
      <Compile Include="Assets\Scripts\Saving\SaveableEntity.cs" />
      <Compile Include="Assets\Scripts\Combat\Fighter.cs" />
+     <Compile Include="Assets\Scripts\Stats\ExperienceDisplay.cs" />
+     <Compile Include="Assets\Asset Packs\Standard Assets\Environment\Water\Water\Scripts\WaterTile.cs" />
      <Compile Include="Assets\Scripts\Core\FollowCamera.cs" />
+     <Compile Include="Assets\Scripts\Attributes\Health.cs" />
+     <Compile Include="Assets\Scripts\Core\CameraFacing.cs" />
+     <Compile Include="Assets\Asset Packs\Standard Assets\Environment\Water\Water\Scripts\SpecularLighting.cs" />
+     <Compile Include="Assets\Scripts\Combat\Weapon.cs" />
+     <Compile Include="Assets\Scripts\Control\CursorType.cs" />
+     <Compile Include="Assets\Scripts\UI\DamageText\DamageText.cs" />
+     <Compile Include="Assets\Scripts\Core\DestroyAfterEffect.cs" />
+     <Compile Include="Assets\Scripts\Control\AIController.cs" />
+     <Compile Include="Assets\Scripts\Combat\WeaponConfig.cs" />
+     <Compile Include="Assets\Scripts\Movement\Mover.cs" />
+     <Compile Include="Assets\Asset Packs\Standard Assets\Environment\Water\Water\Scripts\WaterBase.cs" />
+     <Compile Include="Assets\Asset Packs\Standard Assets\Environment\Water\Water\Scripts\MeshContainer.cs" />
+     <Compile Include="Assets\Scripts\Saving\ISaveable.cs" />
+     <Compile Include="Assets\Scripts\Saving\SerializableVector3.cs" />
+     <Compile Include="Assets\Asset Packs\GameDev.tv Assets\Scripts\Utils\LazyValue.cs" />
+     <Compile Include="Assets\Scripts\Control\PatrolPath.cs" />
+     <Compile Include="Assets\Scripts\Combat\WeaponPickup.cs" />
+     <Compile Include="Assets\Scripts\Stats\Progression.cs" />
+     <Compile Include="Assets\Asset Packs\Standard Assets\Environment\Water\Water\Scripts\GerstnerDisplace.cs" />
+     <Compile Include="Assets\Scripts\Stats\Experience.cs" />
+     <Compile Include="Assets\Scripts\Saving\SavingSystem.cs" />
+     <Compile Include="Assets\Scripts\Combat\CombatTarget.cs" />
+     <Compile Include="Assets\Scripts\Combat\EnemyHealthDisplay.cs" />
+     <Compile Include="Assets\Scripts\Stats\BaseStats.cs" />
+     <Compile Include="Assets\Scripts\Core\PeristentObjectSpawner.cs" />
+     <Compile Include="Assets\Scripts\Attributes\HealthBar.cs" />
+     <Compile Include="Assets\Scripts\UI\DamageText\DamageTextSpawner.cs" />
+     <Compile Include="Assets\Scripts\Stats\CharacterClass.cs" />
+     <Compile Include="Assets\Scripts\Combat\Projectile.cs" />
+     <Compile Include="Assets\Asset Packs\Standard Assets\Environment\Water\Water\Scripts\Water.cs" />
      <Compile Include="Assets\Scripts\SceneManagement\Portal.cs" />
-     <Compile Include="Assets\Scripts\Core\Health.cs" />
-     <None Include="Assets\Asset Packs\Synty - Polygon Student Sample\Synty - Polygon Student Sample\README - Usage Rights for these assets.txt" />
+     <Compile Include="Assets\Scripts\Attributes\HealthDisplay.cs" />
      <None Include="Assets\Asset Packs\Synty - Polygon Student Sample\README - Usage Rights for these assets.txt" />
+     <None Include="Assets\Asset Packs\SimpleFX\Materials\UnlitVertexColour_Alpha.shader" />
      <None Include="Assets\Asset Packs\BOXOPHOBIC\Skybox Cubemap Extended\Shaders\Skybox Cubemap Extended.shader" />
-     <None Include="Assets\Asset Packs\Synty - Polygon Student Sample\Animations by Explosive\README - Usage Rights for these assets 1.txt" />
      <None Include="Assets\Asset Packs\Animations by Explosive\README - Usage Rights for these assets 1.txt" />
-     <None Include="Assets\Asset Packs\Synty - Polygon Student Sample\BOXOPHOBIC\Skybox Cubemap Extended\Shaders\Skybox Cubemap Extended.shader" />
+     <None Include="Assets\Asset Packs\SimpleSky\ReadMe.txt" />
+     <None Include="Assets\Asset Packs\Standard Assets\Environment\Water\Water\Shaders\FXWaterPro.shader" />
+     <None Include="Assets\Asset Packs\Not For Student Use - licence required\Important README.txt" />
     <Reference Include="UnityEngine">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
@@ -286,6 +317,9 @@
     </Reference>
     <Reference Include="clipper_library">
         <HintPath>E:/Works/grup8-bitirmeprojesi-RPG_game/RPG_game/Library/PackageCache/com.unity.cinemachine@2.7.3/Runtime/ThirdParty/clipper_library.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+        <HintPath>E:/Works/grup8-bitirmeprojesi-RPG_game/RPG_game/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
@@ -641,11 +675,17 @@
     <Reference Include="com.unity.cinemachine.editor">
         <HintPath>E:/Works/grup8-bitirmeprojesi-RPG_game/RPG_game/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
+        <HintPath>E:/Works/grup8-bitirmeprojesi-RPG_game/RPG_game/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
         <HintPath>E:/Works/grup8-bitirmeprojesi-RPG_game/RPG_game/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
         <HintPath>E:/Works/grup8-bitirmeprojesi-RPG_game/RPG_game/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ProBuilder.AddOns.Editor">
+        <HintPath>E:/Works/grup8-bitirmeprojesi-RPG_game/RPG_game/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
         <HintPath>E:/Works/grup8-bitirmeprojesi-RPG_game/RPG_game/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
@@ -656,6 +696,12 @@
     <Reference Include="Unity.TextMeshPro">
         <HintPath>E:/Works/grup8-bitirmeprojesi-RPG_game/RPG_game/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.ProBuilder">
+        <HintPath>E:/Works/grup8-bitirmeprojesi-RPG_game/RPG_game/Library/ScriptAssemblies/Unity.ProBuilder.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ProBuilder.Editor">
+        <HintPath>E:/Works/grup8-bitirmeprojesi-RPG_game/RPG_game/Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.UI">
         <HintPath>E:/Works/grup8-bitirmeprojesi-RPG_game/RPG_game/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
@@ -664,6 +710,9 @@
     </Reference>
     <Reference Include="UnityEngine.UI">
         <HintPath>E:/Works/grup8-bitirmeprojesi-RPG_game/RPG_game/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.PlasticSCM.Editor">
+        <HintPath>E:/Works/grup8-bitirmeprojesi-RPG_game/RPG_game/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

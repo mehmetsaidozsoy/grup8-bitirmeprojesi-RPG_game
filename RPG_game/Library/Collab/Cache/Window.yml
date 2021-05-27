@@ -14,14 +14,677 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - Assets/Game/Core/PersistentObjects.prefab
+    - Assets/Asset Packs/Fantasy RPG UI Sample.meta
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI.meta
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts.meta
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/Background_01.png
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/Background_01.png.meta
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/Background_02.png
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/Background_02.png.meta
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/Background_06.png
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/Background_06.png.meta
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/Button_04.png
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/Button_04.png.meta
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/Button_05.png
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/Button_05.png.meta
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/Button_11.png
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/Button_11.png.meta
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/Button_23.png
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/Button_23.png.meta
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/FRAME_bot.png
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/FRAME_bot.png.meta
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/FRAME_left-bot.png
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/FRAME_left-bot.png.meta
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/FRAME_left-top.png
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/FRAME_left-top.png.meta
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/FRAME_left.png
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/FRAME_left.png.meta
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/FRAME_right-bot.png
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/FRAME_right-bot.png.meta
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/FRAME_right-top.png
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/FRAME_right-top.png.meta
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/FRAME_right.png
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/FRAME_right.png.meta
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/FRAME_top.png
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/FRAME_top.png.meta
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/InventoryButton_boots.png
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/InventoryButton_boots.png.meta
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/InventoryButton_chest.png
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/InventoryButton_chest.png.meta
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/InventoryButton_gloves.png
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/InventoryButton_gloves.png.meta
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/InventoryButton_helm.png
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/InventoryButton_helm.png.meta
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/InventoryButton_neck.png
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/InventoryButton_neck.png.meta
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/InventoryButton_pants.png
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/InventoryButton_pants.png.meta
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/InventoryButton_shield.png
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/InventoryButton_shield.png.meta
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/InventoryButton_weapon.png
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Parts/InventoryButton_weapon.png.meta
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Update 1.1.meta
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Update 1.1/Armor_icon.png
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Update 1.1/Armor_icon.png.meta
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Update 1.1/Button_Desk_short.png
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Update 1.1/Button_Desk_short.png.meta
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Update 1.1/Intelligence_icon.png
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Update 1.1/Intelligence_icon.png.meta
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Update 1.1/Power_icon.png
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Update 1.1/Power_icon.png.meta
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Update 1.1/ScrollingBar_Long_size.png
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Update 1.1/ScrollingBar_Long_size.png.meta
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Update 1.1/ScrollingLine_Long_size.png
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Update 1.1/ScrollingLine_Long_size.png.meta
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Update 1.2.meta
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Update 1.2/Button_10_On.png
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Update 1.2/Button_10_On.png.meta
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Update 1.2/Button_23_On.png
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Update 1.2/Button_23_On.png.meta
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Update 1.2/Menu_button_02_Little_On.png
+    - Assets/Asset Packs/Fantasy RPG UI Sample/UI/Update 1.2/Menu_button_02_Little_On.png.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/Inventories.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/Inventories/ActionItem.cs
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/Inventories/ActionItem.cs.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/Inventories/ActionStore.cs
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/Inventories/ActionStore.cs.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/Inventories/EquipLocation.cs
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/Inventories/EquipLocation.cs.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/Inventories/EquipableItem.cs
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/Inventories/EquipableItem.cs.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/Inventories/Equipment.cs
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/Inventories/Equipment.cs.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/Inventories/Inventory.cs
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/Inventories/Inventory.cs.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/Inventories/InventoryItem.cs
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/Inventories/InventoryItem.cs.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/Inventories/ItemCategory.cs
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/Inventories/ItemCategory.cs.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/Inventories/ItemDropper.cs
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/Inventories/ItemDropper.cs.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/Inventories/Pickup.cs
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/Inventories/Pickup.cs.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/Inventories/PickupSpawner.cs
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/Inventories/PickupSpawner.cs.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/UI.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/UI/Inventories.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/UI/Inventories/ActionSlotUI.cs
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/UI/Inventories/ActionSlotUI.cs.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/UI/Inventories/EquipmentSlotUI.cs
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/UI/Inventories/EquipmentSlotUI.cs.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/UI/Inventories/IItemHolder.cs
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/UI/Inventories/IItemHolder.cs.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/UI/Inventories/InventoryDragItem.cs
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/UI/Inventories/InventoryDragItem.cs.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/UI/Inventories/InventoryDropTarget.cs
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/UI/Inventories/InventoryDropTarget.cs.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/UI/Inventories/InventoryItemIcon.cs
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/UI/Inventories/InventoryItemIcon.cs.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/UI/Inventories/InventorySlotUI.cs
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/UI/Inventories/InventorySlotUI.cs.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/UI/Inventories/InventoryUI.cs
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/UI/Inventories/InventoryUI.cs.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/UI/Inventories/ItemTooltip.cs
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/UI/Inventories/ItemTooltip.cs.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/UI/Inventories/ItemTooltipSpawner.cs
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/UI/Inventories/ItemTooltipSpawner.cs.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/UI/ShowHideUI.cs
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/UI/ShowHideUI.cs.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/Utils/PeristentObjectSpawner.cs
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/Utils/PeristentObjectSpawner.cs.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/Utils/UI.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/Utils/UI/Dragging.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/Utils/UI/Dragging/DragItem.cs
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/Utils/UI/Dragging/DragItem.cs.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/Utils/UI/Dragging/IDragContainer.cs
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/Utils/UI/Dragging/IDragContainer.cs.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/Utils/UI/Dragging/IDragDestination.cs
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/Utils/UI/Dragging/IDragDestination.cs.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/Utils/UI/Dragging/IDragSource.cs
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/Utils/UI/Dragging/IDragSource.cs.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/Utils/UI/Tooltips.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/Utils/UI/Tooltips/TooltipSpawner.cs
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/Utils/UI/Tooltips/TooltipSpawner.cs.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Sprites.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Sprites/Placeholders.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Sprites/Placeholders/A.png
+    - Assets/Asset Packs/GameDev.tv Assets/Sprites/Placeholders/A.png.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Sprites/Placeholders/B.png
+    - Assets/Asset Packs/GameDev.tv Assets/Sprites/Placeholders/B.png.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Sprites/Placeholders/C.png
+    - Assets/Asset Packs/GameDev.tv Assets/Sprites/Placeholders/C.png.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Sprites/Placeholders/D.png
+    - Assets/Asset Packs/GameDev.tv Assets/Sprites/Placeholders/D.png.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Sprites/Placeholders/E.png
+    - Assets/Asset Packs/GameDev.tv Assets/Sprites/Placeholders/E.png.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Sprites/Placeholders/F.png
+    - Assets/Asset Packs/GameDev.tv Assets/Sprites/Placeholders/F.png.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Sprites/Placeholders/G.png
+    - Assets/Asset Packs/GameDev.tv Assets/Sprites/Placeholders/G.png.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Sprites/Placeholders/H.png
+    - Assets/Asset Packs/GameDev.tv Assets/Sprites/Placeholders/H.png.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Sprites/Placeholders/rectangle.png
+    - Assets/Asset Packs/GameDev.tv Assets/Sprites/Placeholders/rectangle.png.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Sprites/Placeholders/slotA.png
+    - Assets/Asset Packs/GameDev.tv Assets/Sprites/Placeholders/slotA.png.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Sprites/Placeholders/slotB.png
+    - Assets/Asset Packs/GameDev.tv Assets/Sprites/Placeholders/slotB.png.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Sprites/Placeholders/slotC.png
+    - Assets/Asset Packs/GameDev.tv Assets/Sprites/Placeholders/slotC.png.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Sprites/Placeholders/slotD.png
+    - Assets/Asset Packs/GameDev.tv Assets/Sprites/Placeholders/slotD.png.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Sprites/Placeholders/slotE.png
+    - Assets/Asset Packs/GameDev.tv Assets/Sprites/Placeholders/slotE.png.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Sprites/Placeholders/slotF.png
+    - Assets/Asset Packs/GameDev.tv Assets/Sprites/Placeholders/slotF.png.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Sprites/Placeholders/slotG.png
+    - Assets/Asset Packs/GameDev.tv Assets/Sprites/Placeholders/slotG.png.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Sprites/Placeholders/slotH.png
+    - Assets/Asset Packs/GameDev.tv Assets/Sprites/Placeholders/slotH.png.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Summon Circle.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Summon Circle/Summon Circle.mat
+    - Assets/Asset Packs/GameDev.tv Assets/Summon Circle/Summon Circle.mat.meta
+    - Assets/Asset Packs/GameDev.tv Assets/Summon Circle/Summon Circle.png
+    - Assets/Asset Packs/GameDev.tv Assets/Summon Circle/Summon Circle.png.meta
+    - Assets/Asset Packs/Merienda-Bold SDF.asset
+    - Assets/Asset Packs/Merienda-Bold SDF.asset.meta
+    - Assets/Asset Packs/Merienda-Bold.ttf
+    - Assets/Asset Packs/Merienda-Bold.ttf.meta
+    - Assets/Asset Packs/Universal Gold Icons Sample.meta
+    - Assets/Asset Packs/Universal Gold Icons Sample/Coins Pack.meta
+    - Assets/Asset Packs/Universal Gold Icons Sample/Coins Pack/Money_Perspective.meta
+    - Assets/Asset Packs/Universal Gold Icons Sample/Coins Pack/Money_Perspective/Coin_Gold_02.png
+    - Assets/Asset Packs/Universal Gold Icons Sample/Coins Pack/Money_Perspective/Coin_Gold_02.png.meta
+    - Assets/Asset Packs/Universal Gold Icons Sample/Potion_01(Purple)_No BG.png
+    - Assets/Asset Packs/Universal Gold Icons Sample/Potion_01(Purple)_No BG.png.meta
+    - Assets/Asset Packs/Universal Gold Icons Sample/Potion_01(Red)_No BG.png
+    - Assets/Asset Packs/Universal Gold Icons Sample/Potion_01(Red)_No BG.png.meta
+    - Assets/Asset Packs/Universal Gold Icons Sample/T_Boots_1_b_nobg.png
+    - Assets/Asset Packs/Universal Gold Icons Sample/T_Boots_1_b_nobg.png.meta
+    - Assets/Asset Packs/Universal Gold Icons Sample/T_Chest_04_Nobg.png
+    - Assets/Asset Packs/Universal Gold Icons Sample/T_Chest_04_Nobg.png.meta
+    - Assets/Asset Packs/Universal Gold Icons Sample/T_Dagger_01_Nobg.png
+    - Assets/Asset Packs/Universal Gold Icons Sample/T_Dagger_01_Nobg.png.meta
+    - Assets/Asset Packs/Universal Gold Icons Sample/T_Gloves_02_Nobg.png
+    - Assets/Asset Packs/Universal Gold Icons Sample/T_Gloves_02_Nobg.png.meta
+    - Assets/Asset Packs/Universal Gold Icons Sample/T_Hammer_01_Nobg.png
+    - Assets/Asset Packs/Universal Gold Icons Sample/T_Hammer_01_Nobg.png.meta
+    - Assets/Asset Packs/Universal Gold Icons Sample/T_Head_01_Nobg.png
+    - Assets/Asset Packs/Universal Gold Icons Sample/T_Head_01_Nobg.png.meta
+    - Assets/Asset Packs/Universal Gold Icons Sample/T_Head_08_Nobg.png
+    - Assets/Asset Packs/Universal Gold Icons Sample/T_Head_08_Nobg.png.meta
+    - Assets/Asset Packs/Universal Gold Icons Sample/T_Pants_Nobg.png
+    - Assets/Asset Packs/Universal Gold Icons Sample/T_Pants_Nobg.png.meta
+    - Assets/Asset Packs/Universal Gold Icons Sample/T_Shield_01_Nobg.png
+    - Assets/Asset Packs/Universal Gold Icons Sample/T_Shield_01_Nobg.png.meta
+    - Assets/Asset Packs/Universal Gold Icons Sample/T_scroll_NOBG.png
+    - Assets/Asset Packs/Universal Gold Icons Sample/T_scroll_NOBG.png.meta
+    - Assets/Game/Abilities.meta
+    - Assets/Game/Abilities/Resources.meta
+    - Assets/Game/Abilities/Resources/Demo Targeting.asset
+    - Assets/Game/Abilities/Resources/Demo Targeting.asset.meta
+    - Assets/Game/Abilities/Resources/Enemy Filter.asset
+    - Assets/Game/Abilities/Resources/Enemy Filter.asset.meta
+    - Assets/Game/Abilities/Resources/Fire Spray.meta
+    - Assets/Game/Abilities/Resources/Fire Spray/Delay Launch Fireball.asset
+    - Assets/Game/Abilities/Resources/Fire Spray/Delay Launch Fireball.asset.meta
+    - Assets/Game/Abilities/Resources/Fire Spray/Directional Targeting.asset
+    - Assets/Game/Abilities/Resources/Fire Spray/Directional Targeting.asset.meta
+    - Assets/Game/Abilities/Resources/Fire Spray/Fire Spray.asset
+    - Assets/Game/Abilities/Resources/Fire Spray/Fire Spray.asset.meta
+    - Assets/Game/Abilities/Resources/Fire Spray/Fireballs.asset
+    - Assets/Game/Abilities/Resources/Fire Spray/Fireballs.asset.meta
+    - Assets/Game/Abilities/Resources/Health Potion.meta
+    - Assets/Game/Abilities/Resources/Health Potion/Heal Effect.asset
+    - Assets/Game/Abilities/Resources/Health Potion/Heal Effect.asset.meta
+    - Assets/Game/Abilities/Resources/Health Potion/Heal Particle Effect.asset
+    - Assets/Game/Abilities/Resources/Health Potion/Heal Particle Effect.asset.meta
+    - Assets/Game/Abilities/Resources/Health Potion/Health Potion.asset
+    - Assets/Game/Abilities/Resources/Health Potion/Health Potion.asset.meta
+    - Assets/Game/Abilities/Resources/Orient To Target Effect.asset
+    - Assets/Game/Abilities/Resources/Orient To Target Effect.asset.meta
+    - Assets/Game/Abilities/Resources/Self Targeting.asset
+    - Assets/Game/Abilities/Resources/Self Targeting.asset.meta
+    - Assets/Game/Abilities/Resources/Super Mega Splash.meta
+    - Assets/Game/Abilities/Resources/Super Mega Splash/Ability Super Mega Splash.asset
+    - Assets/Game/Abilities/Resources/Super Mega Splash/Ability Super Mega Splash.asset.meta
+    - Assets/Game/Abilities/Resources/Super Mega Splash/Animation Super Mega Splash.asset
+    - Assets/Game/Abilities/Resources/Super Mega Splash/Animation Super Mega Splash.asset.meta
+    - Assets/Game/Abilities/Resources/Super Mega Splash/Blast Effect.asset
+    - Assets/Game/Abilities/Resources/Super Mega Splash/Blast Effect.asset.meta
+    - Assets/Game/Abilities/Resources/Super Mega Splash/Damage Super Mega Splash.asset
+    - Assets/Game/Abilities/Resources/Super Mega Splash/Damage Super Mega Splash.asset.meta
+    - Assets/Game/Abilities/Resources/Super Mega Splash/Delayed Effects Super Mega
+      Splash.asset
+    - Assets/Game/Abilities/Resources/Super Mega Splash/Delayed Effects Super Mega
+      Splash.asset.meta
+    - Assets/Game/Abilities/Resources/Super Mega Splash/Targeting Super Mega Splash.asset
+    - Assets/Game/Abilities/Resources/Super Mega Splash/Targeting Super Mega Splash.asset.meta
+    - Assets/Game/Abilities/Targeting.meta
+    - Assets/Game/Abilities/Targeting/Summon Circle.prefab
+    - Assets/Game/Abilities/Targeting/Summon Circle.prefab.meta
+    - Assets/Game/Characters/Character.controller
+    - Assets/Game/Characters/Enemies/Enemy.prefab
+    - Assets/Game/Characters/Player/Player.prefab
+    - Assets/Game/Characters/Shop Keeper.prefab
+    - Assets/Game/Characters/Shop Keeper.prefab.meta
+    - Assets/Game/Core/Core.prefab
+    - Assets/Game/Core/Default Enemy Drops.asset
+    - Assets/Game/Core/Default Enemy Drops.asset.meta
+    - Assets/Game/Core/Fader.prefab
+    - Assets/Game/Core/Progression.asset
+    - Assets/Game/Dialogue.meta
+    - Assets/Game/Dialogue/Motherhubbards Son.asset
+    - Assets/Game/Dialogue/Motherhubbards Son.asset.meta
+    - Assets/Game/Dialogue/New Dialogue 1.asset
+    - Assets/Game/Dialogue/New Dialogue 1.asset.meta
+    - Assets/Game/Dialogue/New Dialogue 2.asset
+    - Assets/Game/Dialogue/New Dialogue 2.asset.meta
+    - Assets/Game/Dialogue/New In Town.asset
+    - Assets/Game/Dialogue/New In Town.asset.meta
+    - Assets/Game/Dialogue/Test.asset
+    - Assets/Game/Dialogue/Test.asset.meta
+    - Assets/Game/Dialogue/Test2.asset
+    - Assets/Game/Dialogue/Test2.asset.meta
+    - Assets/Game/Pickups/Default Pickup.prefab
+    - Assets/Game/Pickups/Default Pickup.prefab.meta
+    - Assets/Game/Pickups/Pickup Spawner.prefab
+    - Assets/Game/Pickups/Pickup Spawner.prefab.meta
+    - Assets/Game/Pickups/Root Pickup.prefab
+    - Assets/Game/Pickups/Root Pickup.prefab.meta
+    - Assets/Game/Pickups/Root Weapon Pickup.prefab
+    - Assets/Game/Pickups/Root Weapon Pickup.prefab.meta
+    - Assets/Game/Quests.meta
+    - Assets/Game/Quests/Resources.meta
+    - Assets/Game/Quests/Resources/Find the missing sock.asset
+    - Assets/Game/Quests/Resources/Find the missing sock.asset.meta
+    - Assets/Game/Quests/Resources/Mother hubbards bunions.asset
+    - Assets/Game/Quests/Resources/Mother hubbards bunions.asset.meta
+    - Assets/Game/UI/Components.meta
+    - Assets/Game/UI/Components/Autolayout Button.prefab
+    - Assets/Game/UI/Components/Autolayout Button.prefab.meta
+    - Assets/Game/UI/Components/Body Text.prefab
+    - Assets/Game/UI/Components/Body Text.prefab.meta
+    - Assets/Game/UI/Components/Button.prefab
+    - Assets/Game/UI/Components/Button.prefab.meta
+    - Assets/Game/UI/Components/Heading Text.prefab
+    - Assets/Game/UI/Components/Heading Text.prefab.meta
+    - Assets/Game/UI/Components/Minus Button.prefab
+    - Assets/Game/UI/Components/Minus Button.prefab.meta
+    - Assets/Game/UI/Components/Panel.prefab
+    - Assets/Game/UI/Components/Panel.prefab.meta
+    - Assets/Game/UI/Components/Plus Button.prefab
+    - Assets/Game/UI/Components/Plus Button.prefab.meta
+    - Assets/Game/UI/Components/Quit Button.prefab
+    - Assets/Game/UI/Components/Quit Button.prefab.meta
+    - Assets/Game/UI/Components/Scroll View.prefab
+    - Assets/Game/UI/Components/Scroll View.prefab.meta
+    - Assets/Game/UI/Components/Title.prefab
+    - Assets/Game/UI/Components/Title.prefab.meta
+    - Assets/Game/UI/Dialogue.meta
+    - Assets/Game/UI/Dialogue.prefab
+    - Assets/Game/UI/Dialogue.prefab.meta
+    - Assets/Game/UI/Dialogue/Choice Button.prefab
+    - Assets/Game/UI/Dialogue/Choice Button.prefab.meta
+    - Assets/Game/UI/HUD.prefab
+    - Assets/Game/UI/Inventory Font.mat
+    - Assets/Game/UI/Inventory Font.mat.meta
+    - Assets/Game/UI/Inventory.meta
+    - Assets/Game/UI/Inventory/ActionSlot.prefab
+    - Assets/Game/UI/Inventory/ActionSlot.prefab.meta
+    - Assets/Game/UI/Inventory/EquipmentSlotUI.prefab
+    - Assets/Game/UI/Inventory/EquipmentSlotUI.prefab.meta
+    - Assets/Game/UI/Inventory/InventoryItem.prefab
+    - Assets/Game/UI/Inventory/InventoryItem.prefab.meta
+    - Assets/Game/UI/Inventory/InventorySlot.prefab
+    - Assets/Game/UI/Inventory/InventorySlot.prefab.meta
+    - Assets/Game/UI/Inventory/ItemTooltip.prefab
+    - Assets/Game/UI/Inventory/ItemTooltip.prefab.meta
+    - Assets/Game/UI/Inventory/Purse UI.prefab
+    - Assets/Game/UI/Inventory/Purse UI.prefab.meta
+    - Assets/Game/UI/Main Menu Canvas.prefab
+    - Assets/Game/UI/Main Menu Canvas.prefab.meta
+    - Assets/Game/UI/Pause UI.prefab
+    - Assets/Game/UI/Pause UI.prefab.meta
+    - Assets/Game/UI/Quests.meta
+    - Assets/Game/UI/Quests/Objective Incomplete.prefab
+    - Assets/Game/UI/Quests/Objective Incomplete.prefab.meta
+    - Assets/Game/UI/Quests/Objective.prefab
+    - Assets/Game/UI/Quests/Objective.prefab.meta
+    - Assets/Game/UI/Quests/Quest Tooltip.prefab
+    - Assets/Game/UI/Quests/Quest Tooltip.prefab.meta
+    - Assets/Game/UI/Quests/Quest UI.prefab
+    - Assets/Game/UI/Quests/Quest UI.prefab.meta
+    - Assets/Game/UI/Quests/Quest.prefab
+    - Assets/Game/UI/Quests/Quest.prefab.meta
+    - Assets/Game/UI/Shop UI.prefab
+    - Assets/Game/UI/Shop UI.prefab.meta
+    - Assets/Game/UI/Shops.meta
+    - Assets/Game/UI/Shops/Headers.prefab
+    - Assets/Game/UI/Shops/Headers.prefab.meta
+    - Assets/Game/UI/Shops/Row.prefab
+    - Assets/Game/UI/Shops/Row.prefab.meta
+    - Assets/Game/UI/Trait Row.prefab
+    - Assets/Game/UI/Trait Row.prefab.meta
+    - Assets/Game/UI/Traits UI.prefab
+    - Assets/Game/UI/Traits UI.prefab.meta
+    - Assets/Game/UI/UI Canvas.prefab
+    - Assets/Game/UI/UI Canvas.prefab.meta
+    - Assets/Game/Weapons/Resources/Bow Blue Projectile.asset
+    - Assets/Game/Weapons/Resources/Bow Red Projectile.asset
+    - Assets/Game/Weapons/Resources/Fireball.asset
+    - Assets/Game/Weapons/Resources/Sword.asset
+    - Assets/Game/Weapons/Resources/Unarmed.asset
+    - Assets/Game/Wearables.meta
+    - Assets/Game/Wearables/Resources.meta
+    - Assets/Game/Wearables/Resources/Foot Cream.asset
+    - Assets/Game/Wearables/Resources/Foot Cream.asset.meta
+    - Assets/Game/Wearables/Resources/Hat.asset
+    - Assets/Game/Wearables/Resources/Hat.asset.meta
+    - Assets/Game/Wearables/Resources/Healthy Hat.asset
+    - Assets/Game/Wearables/Resources/Healthy Hat.asset.meta
+    - Assets/Plugins.meta
+    - Assets/Plugins/GitHub.meta
+    - Assets/Plugins/GitHub/Editor.meta
+    - Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    - Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    - Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    - Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    - Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    - Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb
+    - Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb.meta
+    - Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    - Assets/Plugins/GitHub/Editor/GitHub.Api.45.pdb
+    - Assets/Plugins/GitHub/Editor/GitHub.Api.45.pdb.meta
+    - Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    - Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+    - Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+    - Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    - Assets/Plugins/GitHub/Editor/GitHub.Api.pdb
+    - Assets/Plugins/GitHub/Editor/GitHub.Api.pdb.meta
+    - Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    - Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+    - Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+    - Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    - Assets/Plugins/GitHub/Editor/GitHub.Logging.pdb
+    - Assets/Plugins/GitHub/Editor/GitHub.Logging.pdb.meta
+    - Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    - Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb
+    - Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb.meta
+    - Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    - Assets/Plugins/GitHub/Editor/GitHub.Unity.45.pdb
+    - Assets/Plugins/GitHub/Editor/GitHub.Unity.45.pdb.meta
+    - Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    - Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+    - Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+    - Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    - Assets/Plugins/GitHub/Editor/GitHub.Unity.pdb
+    - Assets/Plugins/GitHub/Editor/GitHub.Unity.pdb.meta
+    - Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    - Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb
+    - Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb.meta
+    - Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    - Assets/Plugins/GitHub/Editor/GitHub.UnityShim.pdb
+    - Assets/Plugins/GitHub/Editor/GitHub.UnityShim.pdb.meta
+    - Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    - Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    - Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    - Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    - Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    - Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    - Assets/Plugins/GitHub/Editor/System.Threading.dll
+    - Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    - Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    - Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    - Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    - Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    - Assets/Plugins/GitHub/Editor/credits.txt
+    - Assets/Plugins/GitHub/Editor/credits.txt.meta
+    - Assets/Plugins/GitHub/Editor/eula.txt
+    - Assets/Plugins/GitHub/Editor/eula.txt.meta
+    - Assets/Plugins/GitHub/Editor/libsfw.bundle
+    - Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    - Assets/Plugins/GitHub/Editor/libsfw.so
+    - Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    - Assets/Plugins/GitHub/Editor/sfw.net.dll
+    - Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    - Assets/Plugins/GitHub/Editor/x64.meta
+    - Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    - Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    - Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    - Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    - Assets/Plugins/GitHub/Editor/x86.meta
+    - Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    - Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    - Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    - Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    - Assets/Scenes/Main Menu.unity
+    - Assets/Scenes/Main Menu.unity.meta
     - Assets/Scenes/Sandbox 2.unity
-    - Assets/Scenes/Sandbox 2/NavMesh.asset
+    - Assets/Scenes/Sandbox 2Settings.lighting
+    - Assets/Scenes/Sandbox 2Settings.lighting.meta
     - Assets/Scenes/Sandbox.unity
-    - ProjectSettings/QualitySettings.asset
+    - Assets/Scripts/Abilities.meta
+    - Assets/Scripts/Abilities/Ability.cs
+    - Assets/Scripts/Abilities/Ability.cs.meta
+    - Assets/Scripts/Abilities/AbilityData.cs
+    - Assets/Scripts/Abilities/AbilityData.cs.meta
+    - Assets/Scripts/Abilities/CooldownStore.cs
+    - Assets/Scripts/Abilities/CooldownStore.cs.meta
+    - Assets/Scripts/Abilities/EffectStrategy.cs
+    - Assets/Scripts/Abilities/EffectStrategy.cs.meta
+    - Assets/Scripts/Abilities/Effects.meta
+    - Assets/Scripts/Abilities/Effects/DelayCompositeEffect.cs
+    - Assets/Scripts/Abilities/Effects/DelayCompositeEffect.cs.meta
+    - Assets/Scripts/Abilities/Effects/HealthEffect.cs
+    - Assets/Scripts/Abilities/Effects/HealthEffect.cs.meta
+    - Assets/Scripts/Abilities/Effects/OrientToTargetEffect.cs
+    - Assets/Scripts/Abilities/Effects/OrientToTargetEffect.cs.meta
+    - Assets/Scripts/Abilities/Effects/SpawnProjectileEffect.cs
+    - Assets/Scripts/Abilities/Effects/SpawnProjectileEffect.cs.meta
+    - Assets/Scripts/Abilities/Effects/SpawnTargetPrefabEffect.cs
+    - Assets/Scripts/Abilities/Effects/SpawnTargetPrefabEffect.cs.meta
+    - Assets/Scripts/Abilities/Effects/TriggerAnimationEffect.cs
+    - Assets/Scripts/Abilities/Effects/TriggerAnimationEffect.cs.meta
+    - Assets/Scripts/Abilities/FilterStrategy.cs
+    - Assets/Scripts/Abilities/FilterStrategy.cs.meta
+    - Assets/Scripts/Abilities/Filters.meta
+    - Assets/Scripts/Abilities/Filters/TagFilter.cs
+    - Assets/Scripts/Abilities/Filters/TagFilter.cs.meta
+    - Assets/Scripts/Abilities/Targeting.meta
+    - Assets/Scripts/Abilities/Targeting/DelayedClickTargeting.cs
+    - Assets/Scripts/Abilities/Targeting/DelayedClickTargeting.cs.meta
+    - Assets/Scripts/Abilities/Targeting/DemoTargeting.cs
+    - Assets/Scripts/Abilities/Targeting/DemoTargeting.cs.meta
+    - Assets/Scripts/Abilities/Targeting/DirectionalTargeting.cs
+    - Assets/Scripts/Abilities/Targeting/DirectionalTargeting.cs.meta
+    - Assets/Scripts/Abilities/Targeting/SelfTargeting.cs
+    - Assets/Scripts/Abilities/Targeting/SelfTargeting.cs.meta
+    - Assets/Scripts/Abilities/TargetingStrategy.cs
+    - Assets/Scripts/Abilities/TargetingStrategy.cs.meta
+    - Assets/Scripts/Attributes/Health.cs
+    - Assets/Scripts/Attributes/Mana.cs
+    - Assets/Scripts/Attributes/Mana.cs.meta
+    - Assets/Scripts/Attributes/ManaDisplay.cs
+    - Assets/Scripts/Attributes/ManaDisplay.cs.meta
+    - Assets/Scripts/Combat/AggroGroup.cs
+    - Assets/Scripts/Combat/AggroGroup.cs.meta
+    - Assets/Scripts/Combat/CombatTarget.cs
+    - Assets/Scripts/Combat/Fighter.cs
+    - Assets/Scripts/Combat/Projectile.cs
+    - Assets/Scripts/Combat/WeaponConfig.cs
+    - Assets/Scripts/Control/AIController.cs
+    - Assets/Scripts/Control/ClickablePickup.cs
+    - Assets/Scripts/Control/ClickablePickup.cs.meta
+    - Assets/Scripts/Control/CursorType.cs
+    - Assets/Scripts/Control/PlayerController.cs
+    - Assets/Scripts/Control/Respawner.cs
+    - Assets/Scripts/Control/Respawner.cs.meta
+    - Assets/Scripts/Core/Condition.cs
+    - Assets/Scripts/Core/Condition.cs.meta
+    - Assets/Scripts/Core/IPredicateEvaluator.cs
+    - Assets/Scripts/Core/IPredicateEvaluator.cs.meta
+    - Assets/Scripts/Dialogue.meta
+    - Assets/Scripts/Dialogue/AIConversant.cs
+    - Assets/Scripts/Dialogue/AIConversant.cs.meta
+    - Assets/Scripts/Dialogue/Dialogue.cs
+    - Assets/Scripts/Dialogue/Dialogue.cs.meta
+    - Assets/Scripts/Dialogue/DialogueNode.cs
+    - Assets/Scripts/Dialogue/DialogueNode.cs.meta
+    - Assets/Scripts/Dialogue/DialogueTrigger.cs
+    - Assets/Scripts/Dialogue/DialogueTrigger.cs.meta
+    - Assets/Scripts/Dialogue/Editor.meta
+    - Assets/Scripts/Dialogue/Editor/DialogueEditor.cs
+    - Assets/Scripts/Dialogue/Editor/DialogueEditor.cs.meta
+    - Assets/Scripts/Dialogue/Editor/DialogueModificationProcessor.cs
+    - Assets/Scripts/Dialogue/Editor/DialogueModificationProcessor.cs.meta
+    - Assets/Scripts/Dialogue/Editor/Resources.meta
+    - Assets/Scripts/Dialogue/Editor/Resources/background.png
+    - Assets/Scripts/Dialogue/Editor/Resources/background.png.meta
+    - Assets/Scripts/Dialogue/PlayerConversant.cs
+    - Assets/Scripts/Dialogue/PlayerConversant.cs.meta
+    - Assets/Scripts/Inventories.meta
+    - Assets/Scripts/Inventories/DropLibrary.cs
+    - Assets/Scripts/Inventories/DropLibrary.cs.meta
+    - Assets/Scripts/Inventories/Purse.cs
+    - Assets/Scripts/Inventories/Purse.cs.meta
+    - Assets/Scripts/Inventories/RandomDropper.cs
+    - Assets/Scripts/Inventories/RandomDropper.cs.meta
+    - Assets/Scripts/Inventories/StatsEquipableItem.cs
+    - Assets/Scripts/Inventories/StatsEquipableItem.cs.meta
+    - Assets/Scripts/Inventories/StatsEquipment.cs
+    - Assets/Scripts/Inventories/StatsEquipment.cs.meta
+    - Assets/Scripts/Movement/Mover.cs
+    - Assets/Scripts/Quests.meta
+    - Assets/Scripts/Quests/Quest.cs
+    - Assets/Scripts/Quests/Quest.cs.meta
+    - Assets/Scripts/Quests/QuestCompletion.cs
+    - Assets/Scripts/Quests/QuestCompletion.cs.meta
+    - Assets/Scripts/Quests/QuestGiver.cs
+    - Assets/Scripts/Quests/QuestGiver.cs.meta
+    - Assets/Scripts/Quests/QuestList.cs
+    - Assets/Scripts/Quests/QuestList.cs.meta
+    - Assets/Scripts/Quests/QuestStatus.cs
+    - Assets/Scripts/Quests/QuestStatus.cs.meta
+    - Assets/Scripts/Saving/ISaveable.cs
+    - Assets/Scripts/Saving/SaveableEntity.cs
+    - Assets/Scripts/Saving/SavingSystem.cs
+    - Assets/Scripts/Saving/SerializableVector3.cs
+    - Assets/Scripts/SceneManagement/Fader.cs
+    - Assets/Scripts/SceneManagement/Portal.cs
+    - Assets/Scripts/SceneManagement/SavingWrapper.cs
+    - Assets/Scripts/Shops.meta
+    - Assets/Scripts/Shops/Shop.cs
+    - Assets/Scripts/Shops/Shop.cs.meta
+    - Assets/Scripts/Shops/ShopItem.cs
+    - Assets/Scripts/Shops/ShopItem.cs.meta
+    - Assets/Scripts/Shops/Shopper.cs
+    - Assets/Scripts/Shops/Shopper.cs.meta
+    - Assets/Scripts/Stats/Experience.cs
+    - Assets/Scripts/Stats/Progression.cs
+    - Assets/Scripts/Stats/Stats.cs
+    - Assets/Scripts/Stats/Trait.cs
+    - Assets/Scripts/Stats/Trait.cs.meta
+    - Assets/Scripts/Stats/TraitStore.cs
+    - Assets/Scripts/Stats/TraitStore.cs.meta
+    - Assets/Scripts/UI/DialogueUI.cs
+    - Assets/Scripts/UI/DialogueUI.cs.meta
+    - Assets/Scripts/UI/MainMenuUI.cs
+    - Assets/Scripts/UI/MainMenuUI.cs.meta
+    - Assets/Scripts/UI/PauseMenuUI.cs
+    - Assets/Scripts/UI/PauseMenuUI.cs.meta
+    - Assets/Scripts/UI/PurseUI.cs
+    - Assets/Scripts/UI/PurseUI.cs.meta
+    - Assets/Scripts/UI/Quests.meta
+    - Assets/Scripts/UI/Quests/QuestItemUI.cs
+    - Assets/Scripts/UI/Quests/QuestItemUI.cs.meta
+    - Assets/Scripts/UI/Quests/QuestListUI.cs
+    - Assets/Scripts/UI/Quests/QuestListUI.cs.meta
+    - Assets/Scripts/UI/Quests/QuestTooltipSpawner.cs
+    - Assets/Scripts/UI/Quests/QuestTooltipSpawner.cs.meta
+    - Assets/Scripts/UI/Quests/QuestTooltipUI.cs
+    - Assets/Scripts/UI/Quests/QuestTooltipUI.cs.meta
+    - Assets/Scripts/UI/SaveLoadUI.cs
+    - Assets/Scripts/UI/SaveLoadUI.cs.meta
+    - Assets/Scripts/UI/Shops.meta
+    - Assets/Scripts/UI/Shops/FilterButtonUI.cs
+    - Assets/Scripts/UI/Shops/FilterButtonUI.cs.meta
+    - Assets/Scripts/UI/Shops/RowUI.cs
+    - Assets/Scripts/UI/Shops/RowUI.cs.meta
+    - Assets/Scripts/UI/Shops/ShopUI.cs
+    - Assets/Scripts/UI/Shops/ShopUI.cs.meta
+    - Assets/Scripts/UI/TraitRowUI.cs
+    - Assets/Scripts/UI/TraitRowUI.cs.meta
+    - Assets/Scripts/UI/TraitUI.cs
+    - Assets/Scripts/UI/TraitUI.cs.meta
+    - Assets/Scripts/UI/UISwitcher.cs
+    - Assets/Scripts/UI/UISwitcher.cs.meta
+    - Assets/TextMesh Pro.meta
+    - Assets/TextMesh Pro/Documentation.meta
+    - Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf
+    - Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta
+    - Assets/TextMesh Pro/Resources.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset.meta
+    - Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+    - Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta
+    - Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+    - Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta
+    - Assets/TextMesh Pro/Resources/Shaders.meta
+    - Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Custom-Atlas.shader
+    - Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta
+    - Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Mobile.shader
+    - Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Mobile.shader.meta
+    - Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap.shader
+    - Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap.shader.meta
+    - Assets/TextMesh Pro/Resources/Shaders/TMP_SDF Overlay.shader
+    - Assets/TextMesh Pro/Resources/Shaders/TMP_SDF Overlay.shader.meta
+    - Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Masking.shader
+    - Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Masking.shader.meta
+    - Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader
+    - Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader.meta
+    - Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader
+    - Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader.meta
+    - Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface-Mobile.shader
+    - Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface-Mobile.shader.meta
+    - Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface.shader
+    - Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface.shader.meta
+    - Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader
+    - Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader.meta
+    - Assets/TextMesh Pro/Resources/Shaders/TMP_Sprite.shader
+    - Assets/TextMesh Pro/Resources/Shaders/TMP_Sprite.shader.meta
+    - Assets/TextMesh Pro/Resources/Shaders/TMPro.cginc
+    - Assets/TextMesh Pro/Resources/Shaders/TMPro.cginc.meta
+    - Assets/TextMesh Pro/Resources/Shaders/TMPro_Properties.cginc
+    - Assets/TextMesh Pro/Resources/Shaders/TMPro_Properties.cginc.meta
+    - Assets/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc
+    - Assets/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc.meta
+    - Assets/TextMesh Pro/Resources/Sprite Assets.meta
+    - Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+    - Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta
+    - Assets/TextMesh Pro/Resources/Style Sheets.meta
+    - Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+    - Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta
+    - Assets/TextMesh Pro/Resources/TMP Settings.asset
+    - Assets/TextMesh Pro/Resources/TMP Settings.asset.meta
+    - Assets/TextMesh Pro/Sprites.meta
+    - Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt
+    - Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta
+    - Assets/TextMesh Pro/Sprites/EmojiOne.json
+    - Assets/TextMesh Pro/Sprites/EmojiOne.json.meta
+    - Assets/TextMesh Pro/Sprites/EmojiOne.png
+    - Assets/TextMesh Pro/Sprites/EmojiOne.png.meta
+    - Packages/manifest.json
+    - Packages/packages-lock.json
+    - ProjectSettings/ProjectSettings.asset
     - ProjectSettings/UnityConnectSettings.asset
     - 
-    m_Values: 00000000000000
+    m_Values: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
