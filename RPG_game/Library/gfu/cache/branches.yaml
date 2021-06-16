@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-06-14T03:44:01.064+03:00
-  initializedAtString: 2021-06-13T15:13:00.995+03:00
+  lastUpdatedAtString: 2021-06-16T02:58:28.455+03:00
+  initializedAtString: 2021-06-16T01:57:21.103+03:00
   localBranches:
   - name: deneme
     tracking: origin/deneme

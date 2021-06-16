@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+
 using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
 using System.Text;
@@ -38,6 +39,18 @@ namespace RPG.Saving
         public void Delete(string saveFile)
         {
             File.Delete(GetPathFromSaveFile(saveFile));
+        }
+
+        public IEnumerable<string> ListSaves()
+        {
+            foreach (string path in Directory.GetFiles(Application.persistentDataPath))
+            {
+                if (Path.GetExtension(path) ==".sav")
+                {
+                    yield return Path.GetFileNameWithoutExtension(path);
+                }
+            }     
+
         }
 
         private Dictionary<string, object> LoadFile(string saveFile)

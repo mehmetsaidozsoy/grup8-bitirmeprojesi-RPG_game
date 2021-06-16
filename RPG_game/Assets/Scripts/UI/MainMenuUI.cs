@@ -1,7 +1,9 @@
+using System;
 using UnityEngine;
 using RPG.SceneManagement;
 using GameDevTV.Utils;
 using TMPro;
+
 
 
 namespace RPG.UI
@@ -31,6 +33,15 @@ namespace RPG.UI
         public void NewGame()
         {
             savingWrapper.value.NewGame(newGameNameField.text);
+        }
+
+        public void QuitGame()
+        {
+#if UNITY_EDITOR
+            UnityEditor.EditorApplication.isPlaying= false;
+#else
+            Application.Quit();
+#endif
         }
 }
     

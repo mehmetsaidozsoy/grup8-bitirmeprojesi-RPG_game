@@ -13,11 +13,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
-    m_Keys:
-    - Assets/Scripts/SceneManagement/SavingWrapper.cs
-    - 
-    m_Values: 0101
-  RevisionSummary: "Menu \xC7al\u0131\u015Fmalar\u0131"
+    m_Keys: []
+    m_Values: 
+  RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
   HistoryPageNumber: 0
