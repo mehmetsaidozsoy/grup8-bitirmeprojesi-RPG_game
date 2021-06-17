@@ -1098,6 +1098,16 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.x
       value: -1806
       objectReference: {fileID: 0}
+    - target: {fileID: 5428691429827515681, guid: 07dc30b6f1bbb4147acd5fd5555a18f5,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1891935310}
+    - target: {fileID: 5428691429827515681, guid: 07dc30b6f1bbb4147acd5fd5555a18f5,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Toggle
+      objectReference: {fileID: 0}
     - target: {fileID: 6492911507510968546, guid: 07dc30b6f1bbb4147acd5fd5555a18f5,
         type: 3}
       propertyPath: m_IsActive

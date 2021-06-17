@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-06-16T03:25:44.452+03:00
-  initializedAtString: 2021-06-16T01:40:30.878+03:00
+  lastUpdatedAtString: 2021-06-17T05:38:19.601+03:00
+  initializedAtString: 2021-06-17T05:36:39.514+03:00
   entries:
   - path: RPG_game\Assembly-CSharp.csproj
     fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Assembly-CSharp.csproj
@@ -22,93 +22,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: RPG_game\Assets\Game\UI\Button.prefab
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Assets\Game\UI\Button.prefab
-    projectPath: Assets\Game\UI\Button.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: RPG_game\Assets\Game\UI\Componenets\Autolayout Button.prefab
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Assets\Game\UI\Componenets\Autolayout
-      Button.prefab
-    projectPath: Assets\Game\UI\Componenets\Autolayout Button.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: RPG_game\Assets\Game\UI\Componenets\Autolayout Button.prefab.meta
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Assets\Game\UI\Componenets\Autolayout
-      Button.prefab.meta
-    projectPath: Assets\Game\UI\Componenets\Autolayout Button.prefab.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: RPG_game\Assets\Game\UI\Componenets\Button.prefab
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Assets\Game\UI\Componenets\Button.prefab
-    projectPath: Assets\Game\UI\Componenets\Button.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Assets\Game\UI\Componenets\Button.prefab.meta
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Assets\Game\UI\Componenets\Button.prefab.meta
-    projectPath: Assets\Game\UI\Componenets\Button.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Assets\Game\UI\Componenets\Panel.prefab
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Assets\Game\UI\Componenets\Panel.prefab
-    projectPath: Assets\Game\UI\Componenets\Panel.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Assets\Game\UI\Componenets\Panel.prefab.meta
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Assets\Game\UI\Componenets\Panel.prefab.meta
-    projectPath: Assets\Game\UI\Componenets\Panel.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Assets\Game\UI\Componenets\Quit Button.prefab
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Assets\Game\UI\Componenets\Quit
-      Button.prefab
-    projectPath: Assets\Game\UI\Componenets\Quit Button.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Assets\Game\UI\Componenets\Quit Button.prefab.meta
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Assets\Game\UI\Componenets\Quit
-      Button.prefab.meta
-    projectPath: Assets\Game\UI\Componenets\Quit Button.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Assets\Game\UI\Componenets\Title.prefab
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Assets\Game\UI\Componenets\Title.prefab
-    projectPath: Assets\Game\UI\Componenets\Title.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Assets\Game\UI\Componenets\Title.prefab.meta
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Assets\Game\UI\Componenets\Title.prefab.meta
-    projectPath: Assets\Game\UI\Componenets\Title.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Assets\Game\UI\Pause Menu.prefab
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Assets\Game\UI\Pause
-      Menu.prefab
-    projectPath: Assets\Game\UI\Pause Menu.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Assets\Game\UI\Pause Menu.prefab.meta
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Assets\Game\UI\Pause
-      Menu.prefab.meta
-    projectPath: Assets\Game\UI\Pause Menu.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Assets\Game\UI\UI Canvas.prefab
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Assets\Game\UI\UI Canvas.prefab
-    projectPath: Assets\Game\UI\UI Canvas.prefab
+  - path: RPG_game\Assets\Game\Core\Core.prefab
+    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Assets\Game\Core\Core.prefab
+    projectPath: Assets\Game\Core\Core.prefab
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -132,351 +48,69 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: RPG_game\Assets\Scripts\Saving\SavingSystem.cs
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Assets\Scripts\Saving\SavingSystem.cs
-    projectPath: Assets\Scripts\Saving\SavingSystem.cs
+  - path: RPG_game\Assets\Scripts\Attributes\Health.cs
+    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Assets\Scripts\Attributes\Health.cs
+    projectPath: Assets\Scripts\Attributes\Health.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: RPG_game\Assets\Scripts\SceneManagement\Fader.cs
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Assets\Scripts\SceneManagement\Fader.cs
-    projectPath: Assets\Scripts\SceneManagement\Fader.cs
+  - path: RPG_game\Assets\Scripts\Control\AIController.cs
+    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Assets\Scripts\Control\AIController.cs
+    projectPath: Assets\Scripts\Control\AIController.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: RPG_game\Assets\Scripts\SceneManagement\SavingWrapper.cs
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Assets\Scripts\SceneManagement\SavingWrapper.cs
-    projectPath: Assets\Scripts\SceneManagement\SavingWrapper.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: RPG_game\Assets\Scripts\UI\MainMenuUI.cs
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Assets\Scripts\UI\MainMenuUI.cs
-    projectPath: Assets\Scripts\UI\MainMenuUI.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: RPG_game\Assets\Scripts\UI\PauseMenuUI.cs
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Assets\Scripts\UI\PauseMenuUI.cs
-    projectPath: Assets\Scripts\UI\PauseMenuUI.cs
+  - path: RPG_game\Assets\Scripts\Control\Respawner.cs
+    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Assets\Scripts\Control\Respawner.cs
+    projectPath: Assets\Scripts\Control\Respawner.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RPG_game\Assets\Scripts\UI\PauseMenuUI.cs.meta
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Assets\Scripts\UI\PauseMenuUI.cs.meta
-    projectPath: Assets\Scripts\UI\PauseMenuUI.cs.meta
+  - path: RPG_game\Assets\Scripts\Control\Respawner.cs.meta
+    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Assets\Scripts\Control\Respawner.cs.meta
+    projectPath: Assets\Scripts\Control\Respawner.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RPG_game\Assets\Scripts\UI\SaveLoadUI.cs
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Assets\Scripts\UI\SaveLoadUI.cs
-    projectPath: Assets\Scripts\UI\SaveLoadUI.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: RPG_game\Library\ArtifactDB
     fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: RPG_game\Library\Artifacts\03\03e83fd301539a86fd5bbb7d7ba8ea77
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\03\03e83fd301539a86fd5bbb7d7ba8ea77
-    projectPath: Library\Artifacts\03\03e83fd301539a86fd5bbb7d7ba8ea77
+  - path: RPG_game\Library\Artifacts\08\086315a7859872dcf00029d0de726d04
+    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\08\086315a7859872dcf00029d0de726d04
+    projectPath: Library\Artifacts\08\086315a7859872dcf00029d0de726d04
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\03\03fcb5c0169275e7f4e66ffda255087a
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\03\03fcb5c0169275e7f4e66ffda255087a
-    projectPath: Library\Artifacts\03\03fcb5c0169275e7f4e66ffda255087a
+  - path: RPG_game\Library\Artifacts\14\1404257b8833087e5e679c1bccc272c8
+    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\14\1404257b8833087e5e679c1bccc272c8
+    projectPath: Library\Artifacts\14\1404257b8833087e5e679c1bccc272c8
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\05\05b1712d4034b2fb39ffb7f19819e48f
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\05\05b1712d4034b2fb39ffb7f19819e48f
-    projectPath: Library\Artifacts\05\05b1712d4034b2fb39ffb7f19819e48f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\05\05d6e7c9b5140236746edbf7fb59189f
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\05\05d6e7c9b5140236746edbf7fb59189f
-    projectPath: Library\Artifacts\05\05d6e7c9b5140236746edbf7fb59189f
+  - path: RPG_game\Library\Artifacts\3e\3eec3088258a5bd5e5bff6b5c166f5b5
+    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\3e\3eec3088258a5bd5e5bff6b5c166f5b5
+    projectPath: Library\Artifacts\3e\3eec3088258a5bd5e5bff6b5c166f5b5
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\08\0853f47293c0fc650ba138a07ca2111d
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\08\0853f47293c0fc650ba138a07ca2111d
-    projectPath: Library\Artifacts\08\0853f47293c0fc650ba138a07ca2111d
+  - path: RPG_game\Library\Artifacts\7d\7de1bb7b025b60ca47e874c2c15bf2ff
+    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\7d\7de1bb7b025b60ca47e874c2c15bf2ff
+    projectPath: Library\Artifacts\7d\7de1bb7b025b60ca47e874c2c15bf2ff
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: RPG_game\Library\Artifacts\87\87f71fc47de3d76efdb02993dca91b47
+    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\87\87f71fc47de3d76efdb02993dca91b47
+    projectPath: Library\Artifacts\87\87f71fc47de3d76efdb02993dca91b47
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\0a\0ab382c6fc1e92e2f9af21e1a6f8bcce
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\0a\0ab382c6fc1e92e2f9af21e1a6f8bcce
-    projectPath: Library\Artifacts\0a\0ab382c6fc1e92e2f9af21e1a6f8bcce
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\0b\0bb4c32b571c138a254729f09f6ac3a2
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\0b\0bb4c32b571c138a254729f09f6ac3a2
-    projectPath: Library\Artifacts\0b\0bb4c32b571c138a254729f09f6ac3a2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\0b\0bddc4d4552476c51b1f7ef54660804a
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\0b\0bddc4d4552476c51b1f7ef54660804a
-    projectPath: Library\Artifacts\0b\0bddc4d4552476c51b1f7ef54660804a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\0c\0c2ab56c7ec33abce53cebfa7973dd5e
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\0c\0c2ab56c7ec33abce53cebfa7973dd5e
-    projectPath: Library\Artifacts\0c\0c2ab56c7ec33abce53cebfa7973dd5e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\0f\0f91cdcad29bc71f381c7de0f75994b6
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\0f\0f91cdcad29bc71f381c7de0f75994b6
-    projectPath: Library\Artifacts\0f\0f91cdcad29bc71f381c7de0f75994b6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\12\128f696294af15ff02d61dd0a52cdb46
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\12\128f696294af15ff02d61dd0a52cdb46
-    projectPath: Library\Artifacts\12\128f696294af15ff02d61dd0a52cdb46
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\15\151ae2bd2fb028cc7286c47b07cf7b5f
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\15\151ae2bd2fb028cc7286c47b07cf7b5f
-    projectPath: Library\Artifacts\15\151ae2bd2fb028cc7286c47b07cf7b5f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\18\181d3027515455c553fc0be70e225781
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\18\181d3027515455c553fc0be70e225781
-    projectPath: Library\Artifacts\18\181d3027515455c553fc0be70e225781
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\18\18fb4e8c4145b05e22ab7125f89cbdd7
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\18\18fb4e8c4145b05e22ab7125f89cbdd7
-    projectPath: Library\Artifacts\18\18fb4e8c4145b05e22ab7125f89cbdd7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\1d\1d73335b3219077340a5aa5c2c423c43
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\1d\1d73335b3219077340a5aa5c2c423c43
-    projectPath: Library\Artifacts\1d\1d73335b3219077340a5aa5c2c423c43
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\1f\1f7467c7e82dfb51bf8aae477f7a229c
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\1f\1f7467c7e82dfb51bf8aae477f7a229c
-    projectPath: Library\Artifacts\1f\1f7467c7e82dfb51bf8aae477f7a229c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\24\24d4b326515ff9a9ddbd78fb3d3ad4a2
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\24\24d4b326515ff9a9ddbd78fb3d3ad4a2
-    projectPath: Library\Artifacts\24\24d4b326515ff9a9ddbd78fb3d3ad4a2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\26\26d79bac29de63164f8f8e990b66fc97
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\26\26d79bac29de63164f8f8e990b66fc97
-    projectPath: Library\Artifacts\26\26d79bac29de63164f8f8e990b66fc97
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\28\2860982dc80ba3ae1075516d29baac1e
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\28\2860982dc80ba3ae1075516d29baac1e
-    projectPath: Library\Artifacts\28\2860982dc80ba3ae1075516d29baac1e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\28\28d6c77b6347681a0264f01e9cd4cdc1
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\28\28d6c77b6347681a0264f01e9cd4cdc1
-    projectPath: Library\Artifacts\28\28d6c77b6347681a0264f01e9cd4cdc1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\2a\2a44de0ae1566f38f0e54f3dbfc6032e
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\2a\2a44de0ae1566f38f0e54f3dbfc6032e
-    projectPath: Library\Artifacts\2a\2a44de0ae1566f38f0e54f3dbfc6032e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\2f\2ff2491c462ad28e5892b925b2a7deb3
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\2f\2ff2491c462ad28e5892b925b2a7deb3
-    projectPath: Library\Artifacts\2f\2ff2491c462ad28e5892b925b2a7deb3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\30\304cd76892e6f462cc436643d0b4b94b
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\30\304cd76892e6f462cc436643d0b4b94b
-    projectPath: Library\Artifacts\30\304cd76892e6f462cc436643d0b4b94b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\32\3265006245c62dcfc507feef241f2a8a
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\32\3265006245c62dcfc507feef241f2a8a
-    projectPath: Library\Artifacts\32\3265006245c62dcfc507feef241f2a8a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\33\331461398e83a428477cb20418143e09
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\33\331461398e83a428477cb20418143e09
-    projectPath: Library\Artifacts\33\331461398e83a428477cb20418143e09
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\36\36ca51ad1c8834ecd0063b95cb8c30ca
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\36\36ca51ad1c8834ecd0063b95cb8c30ca
-    projectPath: Library\Artifacts\36\36ca51ad1c8834ecd0063b95cb8c30ca
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\37\376cb15c4a466d11d5cdb77d0416e115
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\37\376cb15c4a466d11d5cdb77d0416e115
-    projectPath: Library\Artifacts\37\376cb15c4a466d11d5cdb77d0416e115
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\48\486496a9565ed768fe3a8a99691c2c4a
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\48\486496a9565ed768fe3a8a99691c2c4a
-    projectPath: Library\Artifacts\48\486496a9565ed768fe3a8a99691c2c4a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\4d\4d997fa866c35b3e95a1a1f0aedde9a6
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\4d\4d997fa866c35b3e95a1a1f0aedde9a6
-    projectPath: Library\Artifacts\4d\4d997fa866c35b3e95a1a1f0aedde9a6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\4f\4f6a1c40e67a2e55b9ea4dd6e3163910
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\4f\4f6a1c40e67a2e55b9ea4dd6e3163910
-    projectPath: Library\Artifacts\4f\4f6a1c40e67a2e55b9ea4dd6e3163910
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\56\5630f2525f03d3d83de78e64bba33de8
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\56\5630f2525f03d3d83de78e64bba33de8
-    projectPath: Library\Artifacts\56\5630f2525f03d3d83de78e64bba33de8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\5d\5d82ca4619d79e5dc5bf83093490dacf
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\5d\5d82ca4619d79e5dc5bf83093490dacf
-    projectPath: Library\Artifacts\5d\5d82ca4619d79e5dc5bf83093490dacf
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\5d\5df10c4d5d267e1f5a91e6564f1e3015
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\5d\5df10c4d5d267e1f5a91e6564f1e3015
-    projectPath: Library\Artifacts\5d\5df10c4d5d267e1f5a91e6564f1e3015
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\64\64ccf4d1a03438446726eea415ccdc71
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\64\64ccf4d1a03438446726eea415ccdc71
-    projectPath: Library\Artifacts\64\64ccf4d1a03438446726eea415ccdc71
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\65\659bece8ebac46a8f8ad91e9059d6d9b
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\65\659bece8ebac46a8f8ad91e9059d6d9b
-    projectPath: Library\Artifacts\65\659bece8ebac46a8f8ad91e9059d6d9b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\67\670656b2851225afd35020e2cb09898a
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\67\670656b2851225afd35020e2cb09898a
-    projectPath: Library\Artifacts\67\670656b2851225afd35020e2cb09898a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\68\68b688101b1e58f511dd3f69c0697d99
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\68\68b688101b1e58f511dd3f69c0697d99
-    projectPath: Library\Artifacts\68\68b688101b1e58f511dd3f69c0697d99
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\6f\6fa1b56a057c9aaa5b7ee3102359c007
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\6f\6fa1b56a057c9aaa5b7ee3102359c007
-    projectPath: Library\Artifacts\6f\6fa1b56a057c9aaa5b7ee3102359c007
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\6f\6fcf710f479da0b699b73669b6cea440
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\6f\6fcf710f479da0b699b73669b6cea440
-    projectPath: Library\Artifacts\6f\6fcf710f479da0b699b73669b6cea440
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\73\737e98ae1203019664ede3bfb85013b0
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\73\737e98ae1203019664ede3bfb85013b0
-    projectPath: Library\Artifacts\73\737e98ae1203019664ede3bfb85013b0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\78\78c2f7bfc99032c39b60eca787679570
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\78\78c2f7bfc99032c39b60eca787679570
-    projectPath: Library\Artifacts\78\78c2f7bfc99032c39b60eca787679570
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\7e\7e77813b1705585749d301610d22105b
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\7e\7e77813b1705585749d301610d22105b
-    projectPath: Library\Artifacts\7e\7e77813b1705585749d301610d22105b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\80\808b4deb2266ccc953db4dd00176e4cc
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\80\808b4deb2266ccc953db4dd00176e4cc
-    projectPath: Library\Artifacts\80\808b4deb2266ccc953db4dd00176e4cc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\81\815422d95c9cf88745fb0dd9f894891b
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\81\815422d95c9cf88745fb0dd9f894891b
-    projectPath: Library\Artifacts\81\815422d95c9cf88745fb0dd9f894891b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\84\840ca93a57ef675f6a9f4e5c1fde5099
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\84\840ca93a57ef675f6a9f4e5c1fde5099
-    projectPath: Library\Artifacts\84\840ca93a57ef675f6a9f4e5c1fde5099
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\8a\8a853baf94186add3748a2d841704b65
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\8a\8a853baf94186add3748a2d841704b65
-    projectPath: Library\Artifacts\8a\8a853baf94186add3748a2d841704b65
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\8b\8b67cc5ec372c9a3361545c37bb17ca0
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\8b\8b67cc5ec372c9a3361545c37bb17ca0
-    projectPath: Library\Artifacts\8b\8b67cc5ec372c9a3361545c37bb17ca0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\8b\8b952c7000fdea1948ce2caa03ba0792
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\8b\8b952c7000fdea1948ce2caa03ba0792
-    projectPath: Library\Artifacts\8b\8b952c7000fdea1948ce2caa03ba0792
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\8d\8d6c14193bcc8a1d19173c7a81eb922f
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\8d\8d6c14193bcc8a1d19173c7a81eb922f
-    projectPath: Library\Artifacts\8d\8d6c14193bcc8a1d19173c7a81eb922f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\90\90017e59f81b4e8a5738b962fa0db104
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\90\90017e59f81b4e8a5738b962fa0db104
-    projectPath: Library\Artifacts\90\90017e59f81b4e8a5738b962fa0db104
+  - path: RPG_game\Library\Artifacts\92\92bf5576cb309136132b79db8980893f
+    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\92\92bf5576cb309136132b79db8980893f
+    projectPath: Library\Artifacts\92\92bf5576cb309136132b79db8980893f
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -484,254 +118,62 @@ MonoBehaviour:
     fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\95\95292128928f4194587f1851bf69c8cd
     projectPath: Library\Artifacts\95\95292128928f4194587f1851bf69c8cd
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\98\988004c30b6ad82333caf532b77f8d6f
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\98\988004c30b6ad82333caf532b77f8d6f
-    projectPath: Library\Artifacts\98\988004c30b6ad82333caf532b77f8d6f
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RPG_game\Library\Artifacts\a4\a4daa7759405b1029e69991cd2c53d06
+    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\a4\a4daa7759405b1029e69991cd2c53d06
+    projectPath: Library\Artifacts\a4\a4daa7759405b1029e69991cd2c53d06
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\9f\9f787bbaf26114b3392b871118877ace
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\9f\9f787bbaf26114b3392b871118877ace
-    projectPath: Library\Artifacts\9f\9f787bbaf26114b3392b871118877ace
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\9f\9fa259b15ebd8f26ce91e6067b81a598
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\9f\9fa259b15ebd8f26ce91e6067b81a598
-    projectPath: Library\Artifacts\9f\9fa259b15ebd8f26ce91e6067b81a598
+  - path: RPG_game\Library\Artifacts\b2\b2c0ffc7428db522170d6186ab4640be
+    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\b2\b2c0ffc7428db522170d6186ab4640be
+    projectPath: Library\Artifacts\b2\b2c0ffc7428db522170d6186ab4640be
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\a0\a0146aaf6c17d95f1d9923f55a9b73ef
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\a0\a0146aaf6c17d95f1d9923f55a9b73ef
-    projectPath: Library\Artifacts\a0\a0146aaf6c17d95f1d9923f55a9b73ef
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\a0\a0f488cf5a73fe12b713582b15073987
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\a0\a0f488cf5a73fe12b713582b15073987
-    projectPath: Library\Artifacts\a0\a0f488cf5a73fe12b713582b15073987
+  - path: RPG_game\Library\Artifacts\da\daf552ba072a3054ff1594aa1ca84149
+    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\da\daf552ba072a3054ff1594aa1ca84149
+    projectPath: Library\Artifacts\da\daf552ba072a3054ff1594aa1ca84149
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\a2\a2feec4b2ec4fa6e8da9ec5b1880655e
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\a2\a2feec4b2ec4fa6e8da9ec5b1880655e
-    projectPath: Library\Artifacts\a2\a2feec4b2ec4fa6e8da9ec5b1880655e
+  - path: RPG_game\Library\Artifacts\dd\dd6dc435267bb430b6d06002c3d925e5
+    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\dd\dd6dc435267bb430b6d06002c3d925e5
+    projectPath: Library\Artifacts\dd\dd6dc435267bb430b6d06002c3d925e5
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\a3\a32c1871a777e1af756d3d11bda4a824
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\a3\a32c1871a777e1af756d3d11bda4a824
-    projectPath: Library\Artifacts\a3\a32c1871a777e1af756d3d11bda4a824
+  - path: RPG_game\Library\Artifacts\e2\e2b34e94c6eb6abfbff4a75878822112
+    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\e2\e2b34e94c6eb6abfbff4a75878822112
+    projectPath: Library\Artifacts\e2\e2b34e94c6eb6abfbff4a75878822112
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\a6\a639d97487b49a319686ccdcef886527
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\a6\a639d97487b49a319686ccdcef886527
-    projectPath: Library\Artifacts\a6\a639d97487b49a319686ccdcef886527
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\a6\a689c02f694bbece72451de580768b9c
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\a6\a689c02f694bbece72451de580768b9c
-    projectPath: Library\Artifacts\a6\a689c02f694bbece72451de580768b9c
+  - path: RPG_game\Library\Artifacts\eb\ebb0b2b971574ff3ad4521771536336f
+    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\eb\ebb0b2b971574ff3ad4521771536336f
+    projectPath: Library\Artifacts\eb\ebb0b2b971574ff3ad4521771536336f
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\a6\a6eda06557809c31265a97987abc39a9
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\a6\a6eda06557809c31265a97987abc39a9
-    projectPath: Library\Artifacts\a6\a6eda06557809c31265a97987abc39a9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\a9\a9608f46d6964cdddbafb426d80816db
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\a9\a9608f46d6964cdddbafb426d80816db
-    projectPath: Library\Artifacts\a9\a9608f46d6964cdddbafb426d80816db
+  - path: RPG_game\Library\Artifacts\ed\ed1474976c24f9bb86192554dc2c2008
+    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\ed\ed1474976c24f9bb86192554dc2c2008
+    projectPath: Library\Artifacts\ed\ed1474976c24f9bb86192554dc2c2008
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\ab\abb8e67e2cc558ee66346acfb5a3ce32
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\ab\abb8e67e2cc558ee66346acfb5a3ce32
-    projectPath: Library\Artifacts\ab\abb8e67e2cc558ee66346acfb5a3ce32
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\af\afe29d63ea5f5e7d52d601a964bbca7f
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\af\afe29d63ea5f5e7d52d601a964bbca7f
-    projectPath: Library\Artifacts\af\afe29d63ea5f5e7d52d601a964bbca7f
+  - path: RPG_game\Library\Artifacts\f6\f6cb47e310696d2b3d80393566eaf51b
+    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\f6\f6cb47e310696d2b3d80393566eaf51b
+    projectPath: Library\Artifacts\f6\f6cb47e310696d2b3d80393566eaf51b
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\b0\b0a693dc9ea69a45d813b9e563aa9c49
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\b0\b0a693dc9ea69a45d813b9e563aa9c49
-    projectPath: Library\Artifacts\b0\b0a693dc9ea69a45d813b9e563aa9c49
+  - path: RPG_game\Library\Artifacts\f6\f6d7126124a41df55ea0b06034d89b28
+    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\f6\f6d7126124a41df55ea0b06034d89b28
+    projectPath: Library\Artifacts\f6\f6d7126124a41df55ea0b06034d89b28
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\b2\b22abe2ca06fba962a15afe17c3b5caa
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\b2\b22abe2ca06fba962a15afe17c3b5caa
-    projectPath: Library\Artifacts\b2\b22abe2ca06fba962a15afe17c3b5caa
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\b2\b23ff19a8b26efaee9f0dfccd337a429
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\b2\b23ff19a8b26efaee9f0dfccd337a429
-    projectPath: Library\Artifacts\b2\b23ff19a8b26efaee9f0dfccd337a429
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\b3\b3198559d13020862540b8848dec1bcb
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\b3\b3198559d13020862540b8848dec1bcb
-    projectPath: Library\Artifacts\b3\b3198559d13020862540b8848dec1bcb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\b4\b4d36ea31752717181f1714bd15adda8
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\b4\b4d36ea31752717181f1714bd15adda8
-    projectPath: Library\Artifacts\b4\b4d36ea31752717181f1714bd15adda8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\b5\b586c3e40a5396ec20b70344f35d17ef
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\b5\b586c3e40a5396ec20b70344f35d17ef
-    projectPath: Library\Artifacts\b5\b586c3e40a5396ec20b70344f35d17ef
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\bf\bfb9e8e23222d457c3019fd7db135eba
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\bf\bfb9e8e23222d457c3019fd7db135eba
-    projectPath: Library\Artifacts\bf\bfb9e8e23222d457c3019fd7db135eba
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\bf\bfe48e8dddb6a87ada094e60045a1ed6
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\bf\bfe48e8dddb6a87ada094e60045a1ed6
-    projectPath: Library\Artifacts\bf\bfe48e8dddb6a87ada094e60045a1ed6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\c1\c1c9f8fa4e8f23bf92879a60f25d2d96
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\c1\c1c9f8fa4e8f23bf92879a60f25d2d96
-    projectPath: Library\Artifacts\c1\c1c9f8fa4e8f23bf92879a60f25d2d96
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\ca\cad658a15894067715de84e15784eebb
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\ca\cad658a15894067715de84e15784eebb
-    projectPath: Library\Artifacts\ca\cad658a15894067715de84e15784eebb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\d4\d4ebca34bff8039b3f9214ac90fe8b69
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\d4\d4ebca34bff8039b3f9214ac90fe8b69
-    projectPath: Library\Artifacts\d4\d4ebca34bff8039b3f9214ac90fe8b69
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\d7\d755cc9c8f1f726c506e9e85efe9b52a
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\d7\d755cc9c8f1f726c506e9e85efe9b52a
-    projectPath: Library\Artifacts\d7\d755cc9c8f1f726c506e9e85efe9b52a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\d9\d9cfce7280a6721bbbcb5d1505109481
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\d9\d9cfce7280a6721bbbcb5d1505109481
-    projectPath: Library\Artifacts\d9\d9cfce7280a6721bbbcb5d1505109481
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\dd\dd6eb8710139cbcb4763306e66083b16
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\dd\dd6eb8710139cbcb4763306e66083b16
-    projectPath: Library\Artifacts\dd\dd6eb8710139cbcb4763306e66083b16
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\de\deea93bbb4a68b7f0fcd0b64cf97a646
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\de\deea93bbb4a68b7f0fcd0b64cf97a646
-    projectPath: Library\Artifacts\de\deea93bbb4a68b7f0fcd0b64cf97a646
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\df\dfff1362b6d7c3fd6cb1f0dc79c8a350
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\df\dfff1362b6d7c3fd6cb1f0dc79c8a350
-    projectPath: Library\Artifacts\df\dfff1362b6d7c3fd6cb1f0dc79c8a350
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\e1\e177678e177ce659420353d6bbcb9d79
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\e1\e177678e177ce659420353d6bbcb9d79
-    projectPath: Library\Artifacts\e1\e177678e177ce659420353d6bbcb9d79
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\e2\e2f5c1c69f8edd4276ba1a790a54bb2a
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\e2\e2f5c1c69f8edd4276ba1a790a54bb2a
-    projectPath: Library\Artifacts\e2\e2f5c1c69f8edd4276ba1a790a54bb2a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\e8\e84b72617955db38a1e9dfa6f20b53d5
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\e8\e84b72617955db38a1e9dfa6f20b53d5
-    projectPath: Library\Artifacts\e8\e84b72617955db38a1e9dfa6f20b53d5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\ed\ed9b608c7e3dc7df31f69d3ab9985119
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\ed\ed9b608c7e3dc7df31f69d3ab9985119
-    projectPath: Library\Artifacts\ed\ed9b608c7e3dc7df31f69d3ab9985119
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\ed\edfa52ab3e2e3a6e9da0281d55bdd3c8
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\ed\edfa52ab3e2e3a6e9da0281d55bdd3c8
-    projectPath: Library\Artifacts\ed\edfa52ab3e2e3a6e9da0281d55bdd3c8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\f0\f09a9dd797fe62608b3832d38e467ec5
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\f0\f09a9dd797fe62608b3832d38e467ec5
-    projectPath: Library\Artifacts\f0\f09a9dd797fe62608b3832d38e467ec5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\f5\f551cd441d53bcf5519fd744f1c5ae4d
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\f5\f551cd441d53bcf5519fd744f1c5ae4d
-    projectPath: Library\Artifacts\f5\f551cd441d53bcf5519fd744f1c5ae4d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\f6\f6f1a7be058eefeb36ed6238c76ee11b
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\f6\f6f1a7be058eefeb36ed6238c76ee11b
-    projectPath: Library\Artifacts\f6\f6f1a7be058eefeb36ed6238c76ee11b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: RPG_game\Library\Artifacts\f8\f8bebffb9308e183919baa0b73b51603
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\f8\f8bebffb9308e183919baa0b73b51603
-    projectPath: Library\Artifacts\f8\f8bebffb9308e183919baa0b73b51603
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\f9\f91c8bcbf949199b8fd6f40a0093932c
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\f9\f91c8bcbf949199b8fd6f40a0093932c
-    projectPath: Library\Artifacts\f9\f91c8bcbf949199b8fd6f40a0093932c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\Artifacts\fe\fe891d3a2edcfbb7845363bc11648ae3
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Artifacts\fe\fe891d3a2edcfbb7845363bc11648ae3
-    projectPath: Library\Artifacts\fe\fe891d3a2edcfbb7845363bc11648ae3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: RPG_game\Library\Collab\Cache\Window.yml
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Collab\Cache\Window.yml
-    projectPath: Library\Collab\Cache\Window.yml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: RPG_game\Library\Collab\CollabSnapshot_7bcd7c00-758a-4916-9786-94cfc03503af.txt
     fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\Collab\CollabSnapshot_7bcd7c00-758a-4916-9786-94cfc03503af.txt
     projectPath: Library\Collab\CollabSnapshot_7bcd7c00-758a-4916-9786-94cfc03503af.txt
@@ -744,24 +186,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: RPG_game\Library\CurrentMaximizeLayout.dwlt
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\CurrentMaximizeLayout.dwlt
-    projectPath: Library\CurrentMaximizeLayout.dwlt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: RPG_game\Library\EditorInstance.json
     fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RPG_game\Library\expandedItems
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\expandedItems
-    projectPath: Library\expandedItems
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: RPG_game\Library\gfu\cache\branches.yaml
     fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
@@ -816,18 +246,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: RPG_game\Library\ShaderCache\0\06d165d7d0516b5def4e039f5fdef694.bin
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\ShaderCache\0\06d165d7d0516b5def4e039f5fdef694.bin
-    projectPath: Library\ShaderCache\0\06d165d7d0516b5def4e039f5fdef694.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\ShaderCache\3\332e12513cb43e4f07106076e321bc57.bin
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\ShaderCache\3\332e12513cb43e4f07106076e321bc57.bin
-    projectPath: Library\ShaderCache\3\332e12513cb43e4f07106076e321bc57.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: RPG_game\Library\ShaderCache\EditorEncounteredVariants
     fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\ShaderCache\EditorEncounteredVariants
     projectPath: Library\ShaderCache\EditorEncounteredVariants
@@ -840,75 +258,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: RPG_game\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
-    projectPath: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: RPG_game\Library\StateCache\PrefabStageHierarchy\1f\1f3c7f2b4f7baf0c96c3e8cb4b62a9c9.json
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\StateCache\PrefabStageHierarchy\1f\1f3c7f2b4f7baf0c96c3e8cb4b62a9c9.json
-    projectPath: Library\StateCache\PrefabStageHierarchy\1f\1f3c7f2b4f7baf0c96c3e8cb4b62a9c9.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\StateCache\PrefabStageHierarchy\1f\1fc3de7ed6c0d1acf6a2aaeea510e0cf.json
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\StateCache\PrefabStageHierarchy\1f\1fc3de7ed6c0d1acf6a2aaeea510e0cf.json
-    projectPath: Library\StateCache\PrefabStageHierarchy\1f\1fc3de7ed6c0d1acf6a2aaeea510e0cf.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\StateCache\PrefabStageHierarchy\44\44002326a697898f4ee191419ce1b1f8.json
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\StateCache\PrefabStageHierarchy\44\44002326a697898f4ee191419ce1b1f8.json
-    projectPath: Library\StateCache\PrefabStageHierarchy\44\44002326a697898f4ee191419ce1b1f8.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\StateCache\PrefabStageHierarchy\5a\5a5d7235b3d5f2d4517ed6eba7308ded.json
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\StateCache\PrefabStageHierarchy\5a\5a5d7235b3d5f2d4517ed6eba7308ded.json
-    projectPath: Library\StateCache\PrefabStageHierarchy\5a\5a5d7235b3d5f2d4517ed6eba7308ded.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: RPG_game\Library\StateCache\PrefabStageHierarchy\5d\5d5c46dac92d543b7c3873314a6aabf1.json
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\StateCache\PrefabStageHierarchy\5d\5d5c46dac92d543b7c3873314a6aabf1.json
-    projectPath: Library\StateCache\PrefabStageHierarchy\5d\5d5c46dac92d543b7c3873314a6aabf1.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\StateCache\PrefabStageHierarchy\68\680437dca4883468c8a554dd19b2fd6d.json
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\StateCache\PrefabStageHierarchy\68\680437dca4883468c8a554dd19b2fd6d.json
-    projectPath: Library\StateCache\PrefabStageHierarchy\68\680437dca4883468c8a554dd19b2fd6d.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: RPG_game\Library\StateCache\PrefabStageHierarchy\6b\6b77d013b08d935f15bdeb1e6ba6c44b.json
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\StateCache\PrefabStageHierarchy\6b\6b77d013b08d935f15bdeb1e6ba6c44b.json
-    projectPath: Library\StateCache\PrefabStageHierarchy\6b\6b77d013b08d935f15bdeb1e6ba6c44b.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\StateCache\PrefabStageHierarchy\82\82185c9f14726c94ef0c7da8986cf2d4.json
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\StateCache\PrefabStageHierarchy\82\82185c9f14726c94ef0c7da8986cf2d4.json
-    projectPath: Library\StateCache\PrefabStageHierarchy\82\82185c9f14726c94ef0c7da8986cf2d4.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\StateCache\PrefabStageHierarchy\e0\e0d0d532ab49d955675bae4d0a3860d5.json
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\StateCache\PrefabStageHierarchy\e0\e0d0d532ab49d955675bae4d0a3860d5.json
-    projectPath: Library\StateCache\PrefabStageHierarchy\e0\e0d0d532ab49d955675bae4d0a3860d5.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\StateCache\SceneView\47\4709e651102c535c172f7b4741d83aa3.json
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\StateCache\SceneView\47\4709e651102c535c172f7b4741d83aa3.json
-    projectPath: Library\StateCache\SceneView\47\4709e651102c535c172f7b4741d83aa3.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\StateCache\SceneView\4f\4f468b22e9c71ff4181d4788a4ecd8d6.json
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\StateCache\SceneView\4f\4f468b22e9c71ff4181d4788a4ecd8d6.json
-    projectPath: Library\StateCache\SceneView\4f\4f468b22e9c71ff4181d4788a4ecd8d6.json
+  - path: RPG_game\Library\StateCache\PrefabStageHierarchy\f8\f8f711dbee09ff81aa2c4f0e853049be.json
+    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\StateCache\PrefabStageHierarchy\f8\f8f711dbee09ff81aa2c4f0e853049be.json
+    projectPath: Library\StateCache\PrefabStageHierarchy\f8\f8f711dbee09ff81aa2c4f0e853049be.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -918,36 +270,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: RPG_game\Library\StateCache\SceneView\b1\b12903b0329a041009b47e3d5900c384.json
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\StateCache\SceneView\b1\b12903b0329a041009b47e3d5900c384.json
-    projectPath: Library\StateCache\SceneView\b1\b12903b0329a041009b47e3d5900c384.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\StateCache\SceneView\b2\b227902c4aedd73b38c1dbed9d2504f8.json
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\StateCache\SceneView\b2\b227902c4aedd73b38c1dbed9d2504f8.json
-    projectPath: Library\StateCache\SceneView\b2\b227902c4aedd73b38c1dbed9d2504f8.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\StateCache\SceneView\c1\c1642cb9eeb196fc00b799fd34c3716b.json
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\StateCache\SceneView\c1\c1642cb9eeb196fc00b799fd34c3716b.json
-    projectPath: Library\StateCache\SceneView\c1\c1642cb9eeb196fc00b799fd34c3716b.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RPG_game\Library\StateCache\SceneView\e5\e57d7e6d8713293dadca1439753aae2d.json
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\StateCache\SceneView\e5\e57d7e6d8713293dadca1439753aae2d.json
-    projectPath: Library\StateCache\SceneView\e5\e57d7e6d8713293dadca1439753aae2d.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: RPG_game\Library\StateCache\SceneView\ff\ff1e587ab7d19883f8a22f2c74765ba3.json
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Library\StateCache\SceneView\ff\ff1e587ab7d19883f8a22f2c74765ba3.json
-    projectPath: Library\StateCache\SceneView\ff\ff1e587ab7d19883f8a22f2c74765ba3.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: RPG_game\Logs\ApiUpdaterCheck.txt
     fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Logs\ApiUpdaterCheck.txt
     projectPath: Logs\ApiUpdaterCheck.txt
@@ -959,7 +281,7 @@ MonoBehaviour:
     projectPath: Logs\AssetImportWorker0.log
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: RPG_game\Logs\AssetImportWorker0-prev.log
     fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Logs\AssetImportWorker0-prev.log
     projectPath: Logs\AssetImportWorker0-prev.log
@@ -970,11 +292,35 @@ MonoBehaviour:
     fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Logs\AssetImportWorker1-prev.log
     projectPath: Logs\AssetImportWorker1-prev.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: RPG_game\Logs\AssetImportWorker2-prev.log
+    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Logs\AssetImportWorker2-prev.log
+    projectPath: Logs\AssetImportWorker2-prev.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: RPG_game\Logs\AssetImportWorker3-prev.log
+    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Logs\AssetImportWorker3-prev.log
+    projectPath: Logs\AssetImportWorker3-prev.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: RPG_game\Logs\AssetImportWorker4-prev.log
+    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Logs\AssetImportWorker4-prev.log
+    projectPath: Logs\AssetImportWorker4-prev.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: RPG_game\Logs\shadercompiler-AssetImportWorker0.log
     fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Logs\shadercompiler-AssetImportWorker0.log
     projectPath: Logs\shadercompiler-AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RPG_game\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -983,61 +329,67 @@ MonoBehaviour:
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: RPG_game\Logs\shadercompiler-UnityShaderCompiler.exe2.log
     fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Logs\shadercompiler-UnityShaderCompiler.exe2.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: RPG_game\Logs\shadercompiler-UnityShaderCompiler.exe3.log
     fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Logs\shadercompiler-UnityShaderCompiler.exe3.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe3.log
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: RPG_game\Logs\shadercompiler-UnityShaderCompiler.exe4.log
     fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Logs\shadercompiler-UnityShaderCompiler.exe4.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe4.log
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: RPG_game\Logs\shadercompiler-UnityShaderCompiler.exe5.log
     fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Logs\shadercompiler-UnityShaderCompiler.exe5.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe5.log
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: RPG_game\Logs\shadercompiler-UnityShaderCompiler.exe6.log
     fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Logs\shadercompiler-UnityShaderCompiler.exe6.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe6.log
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: RPG_game\Logs\shadercompiler-UnityShaderCompiler.exe7.log
     fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Logs\shadercompiler-UnityShaderCompiler.exe7.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe7.log
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: RPG_game\mehmetmain
     fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\mehmetmain
     projectPath: mehmetmain
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: RPG_game\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: RPG_game\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: RPG_game\RPG_game.sln
     fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\RPG_game.sln
     projectPath: RPG_game.sln
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: RPG_game\Temp\__Backupscenes\0.backup
-    fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Temp\__Backupscenes\0.backup
-    projectPath: Temp\__Backupscenes\0.backup
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: RPG_game\Temp\UnityLockfile
     fullPath: E:\Works\grup8-bitirmeprojesi-RPG_game\RPG_game\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
